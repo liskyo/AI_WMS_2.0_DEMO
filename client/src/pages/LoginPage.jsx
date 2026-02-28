@@ -33,8 +33,15 @@ const LoginPage = () => {
                 <div className="text-center mb-8">
                     <h1 className="text-3xl font-bold text-white mb-2">WMS 智慧倉儲系統</h1>
                     <p className="text-gray-400">請登入以繼續操作</p>
-                    <div className="mt-4 p-3 bg-blue-900/40 border border-blue-700 rounded-lg text-blue-200 text-sm">
-                        <p className="font-semibold mb-1">👋 歡迎體驗 Demo 版本</p>
+                    <div
+                        className="mt-4 p-3 bg-blue-900/40 hover:bg-blue-800/60 border border-blue-700 rounded-lg text-blue-200 text-sm cursor-pointer transition-colors"
+                        onClick={() => {
+                            setEmployeeId('demo');
+                            setPassword('demo123');
+                        }}
+                        title="點擊自動帶入帳號密碼"
+                    >
+                        <p className="font-semibold mb-1">👋 歡迎體驗 Demo 版本 (點我自動輸入)</p>
                         <p>體驗帳號：<span className="font-mono text-white">demo</span></p>
                         <p>密碼：<span className="font-mono text-white">demo123</span></p>
                     </div>

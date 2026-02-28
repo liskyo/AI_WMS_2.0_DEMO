@@ -1,38 +1,11 @@
+import mockData from './mockAppleData.json';
+
 // Simulated In-Memory Data Store (Resets on Refresh)
-let mockItems = [
-    { id: 1, barcode: 'ITEM-001', name: '無線滑鼠', category: '電子配件', description: 'Logitech M331', unit: '個', safe_stock: 10, total_quantity: 35, locations: 'A-01-01(20),A-01-02(15)' },
-    { id: 2, barcode: 'ITEM-002', name: '機械鍵盤', category: '電子配件', description: 'Keychron K2', unit: '把', safe_stock: 5, total_quantity: 12, locations: 'B-02-01(12)' },
-    { id: 3, barcode: 'ITEM-003', name: '24吋螢幕', category: '顯示器', description: 'Dell U2422', unit: '台', safe_stock: 2, total_quantity: 8, locations: 'C-01-01(8)' },
-    { id: 4, barcode: 'ITEM-004', name: 'Type-C 線', category: '線材', description: '2M 編織線', unit: '條', safe_stock: 50, total_quantity: 120, locations: 'A-02-01(120)' },
-    { id: 5, barcode: 'ITEM-005', name: 'USB Hub', category: '配件', description: '7-in-1 Hub', unit: '個', safe_stock: 15, total_quantity: 45, locations: 'B-01-02(45)' },
-];
-
-let mockLocations = [
-    { id: 1, code: 'A-01-01', type: 'SHELF', x: 2, y: 3, capacity: 100, floor: '新大樓4樓', total_quantity: 20, items: [{ barcode: 'ITEM-001', name: '無線滑鼠', quantity: 20 }] },
-    { id: 2, code: 'A-01-02', type: 'SHELF', x: 3, y: 3, capacity: 100, floor: '新大樓4樓', total_quantity: 15, items: [{ barcode: 'ITEM-001', name: '無線滑鼠', quantity: 15 }] },
-    { id: 3, code: 'B-02-01', type: 'SHELF', x: 5, y: 4, capacity: 100, floor: '新大樓4樓', total_quantity: 12, items: [{ barcode: 'ITEM-002', name: '機械鍵盤', quantity: 12 }] },
-    { id: 4, code: 'C-01-01', type: 'SHELF', x: 8, y: 2, capacity: 50, floor: '新大樓4樓', total_quantity: 8, items: [{ barcode: 'ITEM-003', name: '24吋螢幕', quantity: 8 }] },
-    { id: 5, code: 'A-02-01', type: 'SHELF', x: 2, y: 5, capacity: 200, floor: '新大樓4樓', total_quantity: 120, items: [{ barcode: 'ITEM-004', name: 'Type-C 線', quantity: 120 }] },
-    { id: 6, code: 'B-01-02', type: 'SHELF', x: 4, y: 3, capacity: 100, floor: '新大樓4樓', total_quantity: 45, items: [{ barcode: 'ITEM-005', name: 'USB Hub', quantity: 45 }] },
-    { id: 7, code: 'D-01-01', type: 'SHELF', x: 10, y: 5, capacity: 100, floor: '新大樓4樓', total_quantity: 0, items: [] }, // Empty Shelf
-];
-
-let mockTransactions = [
-    { id: 1, timestamp: new Date(Date.now() - 86400000).toISOString(), type: 'IN', quantity: 50, is_deleted: 0, barcode: 'ITEM-001', item_name: '無線滑鼠', location_code: 'A-01-01', employee_id: 'demo', user_name: 'Demo User', deleter_name: null, deleter_id: null },
-    { id: 2, timestamp: new Date(Date.now() - 3600000).toISOString(), type: 'OUT', quantity: 15, is_deleted: 0, barcode: 'ITEM-001', item_name: '無線滑鼠', location_code: 'A-01-01', employee_id: 'demo', user_name: 'Demo User', deleter_name: null, deleter_id: null },
-    { id: 3, timestamp: new Date(Date.now() - 1800000).toISOString(), type: 'IN', quantity: 12, is_deleted: 0, barcode: 'ITEM-002', item_name: '機械鍵盤', location_code: 'B-02-01', employee_id: 'demo', user_name: 'Demo User', deleter_name: null, deleter_id: null },
-];
-
-let mockUsers = [
-    { id: 1, employee_id: 'admin', name: 'Admin User', unit: 'IT', group_name: '管理者', permissions: ['ALL'], email: 'admin@example.com' },
-    { id: 2, employee_id: 'demo', name: 'Demo User', unit: 'Sales', group_name: '員工', permissions: ['Inventory', 'Transactions'], email: 'demo@example.com' },
-];
-
-let mockBom = [
-    { id: 1, main_barcode: 'BOM-PC-01', component_barcode: 'ITEM-002', required_qty: 1, component_name: '機械鍵盤', main_name: '辦公電腦組' },
-    { id: 2, main_barcode: 'BOM-PC-01', component_barcode: 'ITEM-001', required_qty: 1, component_name: '無線滑鼠', main_name: '辦公電腦組' },
-    { id: 3, main_barcode: 'BOM-PC-01', component_barcode: 'ITEM-003', required_qty: 1, component_name: '24吋螢幕', main_name: '辦公電腦組' },
-];
+let mockItems = [...mockData.mockItems];
+let mockLocations = [...mockData.mockLocations];
+let mockTransactions = [...mockData.mockTransactions];
+let mockUsers = [...mockData.mockUsers];
+let mockBom = [...mockData.mockBom];
 
 // Helper to simulate API delay
 const delay = (ms = 300) => new Promise(resolve => setTimeout(resolve, ms));

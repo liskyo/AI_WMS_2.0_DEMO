@@ -1,0 +1,8048 @@
+{
+  "mockItems": [
+    {
+      "id": 1,
+      "barcode": "AP-IP15-128",
+      "name": "iPhone 15 128GB",
+      "category": "手機",
+      "description": "午夜色",
+      "unit": "台",
+      "safe_stock": 50,
+      "total_quantity": 73,
+      "locations": "4K-07-3(73)"
+    },
+    {
+      "id": 2,
+      "barcode": "AP-IP15P-256",
+      "name": "iPhone 15 Pro 256GB",
+      "category": "手機",
+      "description": "原色鈦金屬",
+      "unit": "台",
+      "safe_stock": 30,
+      "total_quantity": 117,
+      "locations": "3F-12-2(63),3F-05-3(54)"
+    },
+    {
+      "id": 3,
+      "barcode": "AP-MBP14-M3",
+      "name": "MacBook Pro 14\"",
+      "category": "電腦",
+      "description": "M3 晶片, 8GB RAM, 512GB SSD",
+      "unit": "台",
+      "safe_stock": 20,
+      "total_quantity": 111,
+      "locations": "3J-01-2(12),4D-01-1(32),3H-01-2(32),3B-08-1(35)"
+    },
+    {
+      "id": 4,
+      "barcode": "AP-MBA13-M2",
+      "name": "MacBook Air 13\"",
+      "category": "電腦",
+      "description": "M2 晶片, 太空灰",
+      "unit": "台",
+      "safe_stock": 25,
+      "total_quantity": 41,
+      "locations": "3A-04-1(21),4F-12-1(11),3E-10-1(9)"
+    },
+    {
+      "id": 5,
+      "barcode": "AP-IPAD-AIR5",
+      "name": "iPad Air 5",
+      "category": "平板",
+      "description": "64GB Wi-Fi 星光色",
+      "unit": "台",
+      "safe_stock": 40,
+      "total_quantity": 43,
+      "locations": "3J-02-3(5),4C-06-3(38)"
+    },
+    {
+      "id": 6,
+      "barcode": "AP-IPAD-PRO11",
+      "name": "iPad Pro 11\"",
+      "category": "平板",
+      "description": "M2 128GB Wi-Fi",
+      "unit": "台",
+      "safe_stock": 15,
+      "total_quantity": 27,
+      "locations": "3A-07-3(27)"
+    },
+    {
+      "id": 7,
+      "barcode": "AP-AW-S9",
+      "name": "Apple Watch Series 9",
+      "category": "穿戴裝置",
+      "description": "41mm 鋁金屬",
+      "unit": "只",
+      "safe_stock": 60,
+      "total_quantity": 274,
+      "locations": "3G-11-3(44),4C-09-2(82),4C-02-2(27),4G-05-2(121)"
+    },
+    {
+      "id": 8,
+      "barcode": "AP-AW-U2",
+      "name": "Apple Watch Ultra 2",
+      "category": "穿戴裝置",
+      "description": "鈦金屬錶殼與高山錶環",
+      "unit": "只",
+      "safe_stock": 10,
+      "total_quantity": 41,
+      "locations": "4C-08-1(23),3D-05-3(18)"
+    },
+    {
+      "id": 9,
+      "barcode": "AP-AIRPODS-P2",
+      "name": "AirPods Pro 2",
+      "category": "音訊",
+      "description": "MagSafe 充電盒",
+      "unit": "副",
+      "safe_stock": 100,
+      "total_quantity": 300,
+      "locations": "4F-01-2(139),4J-02-3(161)"
+    },
+    {
+      "id": 10,
+      "barcode": "AP-AIRPODS-3",
+      "name": "AirPods 3",
+      "category": "音訊",
+      "description": "Lightning 充電盒",
+      "unit": "副",
+      "safe_stock": 80,
+      "total_quantity": 105,
+      "locations": "4F-09-2(10),3E-06-1(95)"
+    },
+    {
+      "id": 11,
+      "barcode": "AP-ATV-4K",
+      "name": "Apple TV 4K",
+      "category": "家庭設備",
+      "description": "Wi-Fi 64GB",
+      "unit": "台",
+      "safe_stock": 30,
+      "total_quantity": 111,
+      "locations": "3H-04-2(62),4H-06-3(49)"
+    },
+    {
+      "id": 12,
+      "barcode": "AP-HP-MINI",
+      "name": "HomePod mini",
+      "category": "家庭設備",
+      "description": "太空灰",
+      "unit": "台",
+      "safe_stock": 50,
+      "total_quantity": 153,
+      "locations": "4J-01-3(98),3A-06-1(47),4B-04-2(8)"
+    },
+    {
+      "id": 13,
+      "barcode": "AP-AG-4PK",
+      "name": "AirTag 4件裝",
+      "category": "配件",
+      "description": "",
+      "unit": "組",
+      "safe_stock": 200,
+      "total_quantity": 777,
+      "locations": "4H-03-2(69),4K-05-2(240),4A-06-1(139),4G-01-2(329)"
+    },
+    {
+      "id": 14,
+      "barcode": "AP-MAGIC-KB",
+      "name": "Magic Keyboard",
+      "category": "配件",
+      "description": "含 Touch ID，適用於 Mac",
+      "unit": "個",
+      "safe_stock": 40,
+      "total_quantity": 76,
+      "locations": "4H-06-1(29),4C-04-1(47)"
+    },
+    {
+      "id": 15,
+      "barcode": "AP-MAGIC-MS",
+      "name": "Magic Mouse",
+      "category": "配件",
+      "description": "黑色多點觸控表面",
+      "unit": "個",
+      "safe_stock": 60,
+      "total_quantity": 246,
+      "locations": "3K-03-3(108),4G-09-1(26),4B-01-1(18),4G-04-1(94)"
+    },
+    {
+      "id": 16,
+      "barcode": "AP-CABLE-USBC",
+      "name": "USB-C 充電連接線",
+      "category": "線材",
+      "description": "2 公尺",
+      "unit": "條",
+      "safe_stock": 300,
+      "total_quantity": 1328,
+      "locations": "3C-07-3(325),4E-10-1(309),4K-08-1(266),4J-09-3(428)"
+    },
+    {
+      "id": 17,
+      "barcode": "AP-ADAPTER-20W",
+      "name": "20W USB-C 電源轉接器",
+      "category": "電源",
+      "description": "",
+      "unit": "個",
+      "safe_stock": 250,
+      "total_quantity": 457,
+      "locations": "3C-08-2(457)"
+    },
+    {
+      "id": 18,
+      "barcode": "AP-MS-BATT",
+      "name": "MagSafe 行動電源",
+      "category": "電源",
+      "description": "",
+      "unit": "個",
+      "safe_stock": 80,
+      "total_quantity": 158,
+      "locations": "4H-08-1(134),4E-06-3(24)"
+    },
+    {
+      "id": 19,
+      "barcode": "AP-PENCIL-2",
+      "name": "Apple Pencil 2",
+      "category": "配件",
+      "description": "",
+      "unit": "支給",
+      "safe_stock": 120,
+      "total_quantity": 213,
+      "locations": "4A-05-2(213)"
+    },
+    {
+      "id": 20,
+      "barcode": "AP-STUDIO-DISP",
+      "name": "Studio Display",
+      "category": "顯示器",
+      "description": "標準玻璃",
+      "unit": "台",
+      "safe_stock": 5,
+      "total_quantity": 18,
+      "locations": "4D-04-1(13),4F-02-1(5)"
+    },
+    {
+      "id": 21,
+      "barcode": "AP-MAC-STUDIO",
+      "name": "Mac Studio",
+      "category": "電腦",
+      "description": "M2 Max, 32GB RAM",
+      "unit": "台",
+      "safe_stock": 10,
+      "total_quantity": 17,
+      "locations": "4E-06-2(6),4G-02-2(11)"
+    },
+    {
+      "id": 22,
+      "barcode": "AP-MAC-MINI",
+      "name": "Mac mini",
+      "category": "電腦",
+      "description": "M2, 8GB RAM, 256GB SSD",
+      "unit": "台",
+      "safe_stock": 25,
+      "total_quantity": 73,
+      "locations": "3B-09-1(23),4F-05-1(31),4G-01-2(19)"
+    }
+  ],
+  "mockLocations": [
+    {
+      "id": 1,
+      "code": "#V_#3F儲位圖_0_0_18_1",
+      "type": "SHELF",
+      "x": 0,
+      "y": 0,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 2,
+      "code": "#V_#A_7_1_1_3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 3,
+      "code": "3A-01-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 4,
+      "code": "3A-02-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 5,
+      "code": "#V_#柱_10_1_2_3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 6,
+      "code": "3A-03-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 7,
+      "code": "3A-04-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 8,
+      "code": "#V_#柱_14_1_1_3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 9,
+      "code": "3A-05-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 10,
+      "code": "3A-06-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 11,
+      "code": "3A-07-3",
+      "type": "SHELF",
+      "x": 17,
+      "y": 1,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 27,
+      "items": [
+        {
+          "barcode": "AP-IPAD-PRO11",
+          "name": "iPad Pro 11\"",
+          "quantity": 27
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "code": "3A-01-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 13,
+      "code": "3A-02-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 14,
+      "code": "3A-03-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 15,
+      "code": "3A-04-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 16,
+      "code": "3A-05-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 17,
+      "code": "3A-06-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 18,
+      "code": "3A-07-2",
+      "type": "SHELF",
+      "x": 17,
+      "y": 2,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 19,
+      "code": "3A-01-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 20,
+      "code": "3A-02-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 21,
+      "code": "3A-03-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 22,
+      "code": "3A-04-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 21,
+      "items": [
+        {
+          "barcode": "AP-MBA13-M2",
+          "name": "MacBook Air 13\"",
+          "quantity": 21
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "code": "3A-05-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 24,
+      "code": "3A-06-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 47,
+      "items": [
+        {
+          "barcode": "AP-HP-MINI",
+          "name": "HomePod mini",
+          "quantity": 47
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "code": "3A-07-1",
+      "type": "SHELF",
+      "x": 17,
+      "y": 3,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 26,
+      "code": "#V_#走道1_3_4_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 4,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 27,
+      "code": "#V_#B_6_5_1_3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 28,
+      "code": "3B-01-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 29,
+      "code": "3B-02-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 30,
+      "code": "3B-03-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 31,
+      "code": "3B-04-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 32,
+      "code": "3B-05-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 33,
+      "code": "3B-06-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 34,
+      "code": "3B-07-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 35,
+      "code": "3B-08-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 36,
+      "code": "3B-09-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 37,
+      "code": "3B-10-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 5,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 38,
+      "code": "3B-01-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 39,
+      "code": "3B-02-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 40,
+      "code": "3B-03-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 41,
+      "code": "3B-04-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 42,
+      "code": "#V_#柱_11_6_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 43,
+      "code": "3B-06-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 44,
+      "code": "3B-07-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 45,
+      "code": "3B-08-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 46,
+      "code": "3B-09-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 47,
+      "code": "3B-10-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 6,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 48,
+      "code": "3B-01-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 49,
+      "code": "3B-02-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 50,
+      "code": "3B-03-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 51,
+      "code": "3B-04-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 52,
+      "code": "3B-06-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 53,
+      "code": "3B-07-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 54,
+      "code": "3B-08-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 35,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "code": "3B-09-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 23,
+      "items": [
+        {
+          "barcode": "AP-MAC-MINI",
+          "name": "Mac mini",
+          "quantity": 23
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "code": "3B-10-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 7,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 57,
+      "code": "#V_#C_6_8_1_3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 58,
+      "code": "3C-01-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 59,
+      "code": "3C-02-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 60,
+      "code": "3C-03-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 61,
+      "code": "3C-04-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 62,
+      "code": "3C-05-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 63,
+      "code": "3C-06-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 64,
+      "code": "3C-07-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 325,
+      "items": [
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 325
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "code": "3C-08-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 66,
+      "code": "3C-09-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 67,
+      "code": "3C-10-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 8,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 68,
+      "code": "3C-01-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 69,
+      "code": "3C-02-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 70,
+      "code": "3C-03-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 71,
+      "code": "3C-04-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 72,
+      "code": "#V_#柱_11_9_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 73,
+      "code": "3C-06-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 74,
+      "code": "3C-07-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 75,
+      "code": "3C-08-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 457,
+      "items": [
+        {
+          "barcode": "AP-ADAPTER-20W",
+          "name": "20W USB-C 電源轉接器",
+          "quantity": 457
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "code": "3C-09-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 77,
+      "code": "3C-10-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 9,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 78,
+      "code": "3C-01-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 79,
+      "code": "3C-02-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 80,
+      "code": "3C-03-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 81,
+      "code": "3C-04-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 82,
+      "code": "3C-06-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 83,
+      "code": "3C-07-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 84,
+      "code": "3C-08-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 85,
+      "code": "3C-09-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 86,
+      "code": "3C-10-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 10,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 87,
+      "code": "#V_#走道2_3_11_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 11,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 88,
+      "code": "#V_#D_7_12_1_3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 89,
+      "code": "3D-01-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 90,
+      "code": "3D-02-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 91,
+      "code": "3D-03-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 92,
+      "code": "3D-04-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 93,
+      "code": "3D-05-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 18,
+      "items": [
+        {
+          "barcode": "AP-AW-U2",
+          "name": "Apple Watch Ultra 2",
+          "quantity": 18
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "code": "#V_#柱_13_12_1_3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 95,
+      "code": "3D-06-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 96,
+      "code": "3D-07-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 97,
+      "code": "3D-08-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 12,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 98,
+      "code": "3D-01-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 99,
+      "code": "3D-02-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 100,
+      "code": "3D-03-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 101,
+      "code": "#V_#柱_11_13_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 102,
+      "code": "3D-05-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 103,
+      "code": "3D-06-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 104,
+      "code": "3D-07-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 105,
+      "code": "3D-08-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 13,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 106,
+      "code": "3D-01-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 107,
+      "code": "3D-02-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 108,
+      "code": "3D-03-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 109,
+      "code": "3D-05-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 110,
+      "code": "3D-06-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 111,
+      "code": "3D-07-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 112,
+      "code": "3D-08-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 14,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 113,
+      "code": "#V_#E_3_15_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 114,
+      "code": "3E-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 115,
+      "code": "3E-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 116,
+      "code": "3E-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 117,
+      "code": "3E-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 118,
+      "code": "3E-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 119,
+      "code": "3E-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 120,
+      "code": "3E-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 121,
+      "code": "3E-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 122,
+      "code": "3E-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 123,
+      "code": "3E-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 124,
+      "code": "3E-11-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 125,
+      "code": "3E-12-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 126,
+      "code": "3E-13-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 15,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 127,
+      "code": "3E-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 128,
+      "code": "3E-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 129,
+      "code": "3E-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 130,
+      "code": "3E-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 131,
+      "code": "3E-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 132,
+      "code": "3E-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 133,
+      "code": "3E-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 134,
+      "code": "#V_#柱_11_16_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 135,
+      "code": "3E-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 136,
+      "code": "3E-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 137,
+      "code": "3E-11-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 138,
+      "code": "3E-12-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 139,
+      "code": "3E-13-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 16,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 140,
+      "code": "3E-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 141,
+      "code": "3E-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 142,
+      "code": "3E-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 143,
+      "code": "3E-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 144,
+      "code": "3E-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 145,
+      "code": "3E-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 95,
+      "items": [
+        {
+          "barcode": "AP-AIRPODS-3",
+          "name": "AirPods 3",
+          "quantity": 95
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "code": "3E-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 147,
+      "code": "3E-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 148,
+      "code": "3E-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 9,
+      "items": [
+        {
+          "barcode": "AP-MBA13-M2",
+          "name": "MacBook Air 13\"",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "code": "3E-11-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 150,
+      "code": "3E-12-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 151,
+      "code": "3E-13-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 17,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 152,
+      "code": "#V_#走道3_3_18_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 18,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 153,
+      "code": "#V_#F_3_19_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 154,
+      "code": "3F-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 155,
+      "code": "3F-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 156,
+      "code": "3F-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 157,
+      "code": "3F-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 158,
+      "code": "3F-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 54,
+      "items": [
+        {
+          "barcode": "AP-IP15P-256",
+          "name": "iPhone 15 Pro 256GB",
+          "quantity": 54
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "code": "3F-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 160,
+      "code": "3F-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 161,
+      "code": "3F-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 162,
+      "code": "3F-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 163,
+      "code": "3F-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 164,
+      "code": "3F-11-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 165,
+      "code": "3F-12-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 166,
+      "code": "3F-13-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 19,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 167,
+      "code": "3F-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 168,
+      "code": "3F-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 169,
+      "code": "3F-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 170,
+      "code": "3F-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 171,
+      "code": "3F-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 172,
+      "code": "3F-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 173,
+      "code": "3F-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 174,
+      "code": "#V_#柱_11_20_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 175,
+      "code": "3F-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 176,
+      "code": "3F-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 177,
+      "code": "3F-11-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 178,
+      "code": "3F-12-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 63,
+      "items": [
+        {
+          "barcode": "AP-IP15P-256",
+          "name": "iPhone 15 Pro 256GB",
+          "quantity": 63
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "code": "3F-13-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 20,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 180,
+      "code": "3F-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 181,
+      "code": "3F-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 182,
+      "code": "3F-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 183,
+      "code": "3F-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 184,
+      "code": "3F-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 185,
+      "code": "3F-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 186,
+      "code": "3F-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 187,
+      "code": "3F-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 188,
+      "code": "3F-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 189,
+      "code": "3F-11-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 190,
+      "code": "3F-12-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 191,
+      "code": "3F-13-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 21,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 192,
+      "code": "#V_#G_3_22_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 193,
+      "code": "3G-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 194,
+      "code": "3G-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 195,
+      "code": "3G-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 196,
+      "code": "3G-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 197,
+      "code": "3G-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 198,
+      "code": "3G-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 199,
+      "code": "#V_#柱_10_22_1_3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 200,
+      "code": "3G-07-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 201,
+      "code": "3G-08-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 202,
+      "code": "#V_#柱_13_22_1_3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 203,
+      "code": "3G-09-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 204,
+      "code": "3G-10-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 205,
+      "code": "3G-11-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 22,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 44,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 44
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "code": "3G-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 207,
+      "code": "3G-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 208,
+      "code": "3G-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 209,
+      "code": "3G-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 210,
+      "code": "3G-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 211,
+      "code": "3G-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 212,
+      "code": "#V_#柱_11_23_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 213,
+      "code": "3G-08-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 214,
+      "code": "3G-09-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 215,
+      "code": "3G-10-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 216,
+      "code": "3G-11-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 23,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 217,
+      "code": "3G-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 218,
+      "code": "3G-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 219,
+      "code": "3G-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 220,
+      "code": "3G-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 221,
+      "code": "3G-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 222,
+      "code": "3G-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 223,
+      "code": "3G-08-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 224,
+      "code": "3G-09-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 225,
+      "code": "3G-10-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 226,
+      "code": "3G-11-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 24,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 227,
+      "code": "#V_#大門_0_25_1_5",
+      "type": "SHELF",
+      "x": 0,
+      "y": 25,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 228,
+      "code": "#V_#走道4_3_25_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 25,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 229,
+      "code": "#V_#H_3_26_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 230,
+      "code": "3H-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 231,
+      "code": "3H-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 232,
+      "code": "3H-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 233,
+      "code": "3H-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 234,
+      "code": "3H-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 235,
+      "code": "3H-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 236,
+      "code": "3H-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 237,
+      "code": "3H-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 238,
+      "code": "3H-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 239,
+      "code": "3H-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 26,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 240,
+      "code": "3H-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 32,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "code": "3H-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 242,
+      "code": "3H-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 243,
+      "code": "3H-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 62,
+      "items": [
+        {
+          "barcode": "AP-ATV-4K",
+          "name": "Apple TV 4K",
+          "quantity": 62
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "code": "3H-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 245,
+      "code": "3H-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 246,
+      "code": "3H-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 247,
+      "code": "#V_#柱_11_27_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 248,
+      "code": "3H-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 249,
+      "code": "3H-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 27,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 250,
+      "code": "3H-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 251,
+      "code": "3H-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 252,
+      "code": "3H-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 253,
+      "code": "3H-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 254,
+      "code": "3H-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 255,
+      "code": "3H-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 256,
+      "code": "3H-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 257,
+      "code": "3H-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 258,
+      "code": "3H-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 28,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 259,
+      "code": "#V_#J_3_29_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 260,
+      "code": "3J-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 261,
+      "code": "3J-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 5,
+      "items": [
+        {
+          "barcode": "AP-IPAD-AIR5",
+          "name": "iPad Air 5",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "code": "3J-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 263,
+      "code": "3J-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 264,
+      "code": "3J-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 265,
+      "code": "3J-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 266,
+      "code": "3J-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 267,
+      "code": "3J-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 268,
+      "code": "3J-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 269,
+      "code": "3J-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 29,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 270,
+      "code": "3J-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 12,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 12
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "code": "3J-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 272,
+      "code": "3J-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 273,
+      "code": "3J-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 274,
+      "code": "3J-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 275,
+      "code": "3J-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 276,
+      "code": "3J-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 277,
+      "code": "#V_#柱_11_30_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 278,
+      "code": "3J-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 279,
+      "code": "3J-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 30,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 280,
+      "code": "3J-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 281,
+      "code": "3J-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 282,
+      "code": "3J-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 283,
+      "code": "3J-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 284,
+      "code": "3J-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 285,
+      "code": "3J-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 286,
+      "code": "3J-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 287,
+      "code": "3J-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 288,
+      "code": "3J-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 31,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 289,
+      "code": "#V_#走道5_3_32_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 32,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 290,
+      "code": "#V_#K_1_33_1_3",
+      "type": "SHELF",
+      "x": 1,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 291,
+      "code": "3K-01-3",
+      "type": "SHELF",
+      "x": 2,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 292,
+      "code": "3K-02-3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 293,
+      "code": "#V_#柱_4_33_1_3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 294,
+      "code": "3K-03-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 108,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-MS",
+          "name": "Magic Mouse",
+          "quantity": 108
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "code": "3K-04-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 296,
+      "code": "3K-05-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 297,
+      "code": "#V_#柱_8_33_1_3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 298,
+      "code": "3K-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 299,
+      "code": "3K-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 300,
+      "code": "3K-08-3",
+      "type": "SHELF",
+      "x": 11,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 301,
+      "code": "#V_#柱_12_33_1_3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 302,
+      "code": "3K-09-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 303,
+      "code": "3K-10-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 304,
+      "code": "3K-11-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 33,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 305,
+      "code": "3K-01-2",
+      "type": "SHELF",
+      "x": 2,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 306,
+      "code": "3K-02-2",
+      "type": "SHELF",
+      "x": 3,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 307,
+      "code": "3K-03-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 308,
+      "code": "3K-04-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 309,
+      "code": "3K-05-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 310,
+      "code": "3K-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 311,
+      "code": "3K-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 312,
+      "code": "3K-08-2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 313,
+      "code": "3K-09-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 314,
+      "code": "3K-10-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 315,
+      "code": "3K-11-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 34,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 316,
+      "code": "3K-01-1",
+      "type": "SHELF",
+      "x": 2,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 317,
+      "code": "3K-02-1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 318,
+      "code": "3K-03-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 319,
+      "code": "3K-04-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 320,
+      "code": "3K-05-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 321,
+      "code": "3K-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 322,
+      "code": "3K-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 323,
+      "code": "3K-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 324,
+      "code": "3K-09-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 325,
+      "code": "3K-10-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 326,
+      "code": "3K-11-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 35,
+      "capacity": 100,
+      "floor": "3F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1001,
+      "code": "#V_#4F儲位圖_0_0_18_1",
+      "type": "SHELF",
+      "x": 0,
+      "y": 0,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1002,
+      "code": "#V_#A_7_1_1_3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1003,
+      "code": "4A-01-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1004,
+      "code": "4A-02-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1005,
+      "code": "#V_#柱_10_1_2_3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1006,
+      "code": "4A-03-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1007,
+      "code": "4A-04-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1008,
+      "code": "#V_#柱_14_1_1_3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1009,
+      "code": "4A-05-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1010,
+      "code": "4A-06-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1011,
+      "code": "4A-07-3",
+      "type": "SHELF",
+      "x": 17,
+      "y": 1,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1012,
+      "code": "4A-01-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1013,
+      "code": "4A-02-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1014,
+      "code": "4A-03-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1015,
+      "code": "4A-04-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1016,
+      "code": "4A-05-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 213,
+      "items": [
+        {
+          "barcode": "AP-PENCIL-2",
+          "name": "Apple Pencil 2",
+          "quantity": 213
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "code": "4A-06-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1018,
+      "code": "4A-07-2",
+      "type": "SHELF",
+      "x": 17,
+      "y": 2,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1019,
+      "code": "4A-01-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1020,
+      "code": "4A-02-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1021,
+      "code": "4A-03-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1022,
+      "code": "4A-04-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1023,
+      "code": "4A-05-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1024,
+      "code": "4A-06-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 139,
+      "items": [
+        {
+          "barcode": "AP-AG-4PK",
+          "name": "AirTag 4件裝",
+          "quantity": 139
+        }
+      ]
+    },
+    {
+      "id": 1025,
+      "code": "4A-07-1",
+      "type": "SHELF",
+      "x": 17,
+      "y": 3,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1026,
+      "code": "#V_#走道1_3_4_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 4,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1027,
+      "code": "#V_#B_6_5_1_3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1028,
+      "code": "4B-01-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1029,
+      "code": "4B-02-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1030,
+      "code": "4B-03-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1031,
+      "code": "4B-04-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1032,
+      "code": "4B-05-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1033,
+      "code": "4B-06-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1034,
+      "code": "4B-07-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1035,
+      "code": "4B-08-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1036,
+      "code": "4B-09-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1037,
+      "code": "4B-10-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 5,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1038,
+      "code": "4B-01-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1039,
+      "code": "4B-02-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1040,
+      "code": "4B-03-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1041,
+      "code": "4B-04-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 8,
+      "items": [
+        {
+          "barcode": "AP-HP-MINI",
+          "name": "HomePod mini",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "id": 1042,
+      "code": "#V_#柱_11_6_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1043,
+      "code": "4B-06-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1044,
+      "code": "4B-07-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1045,
+      "code": "4B-08-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1046,
+      "code": "4B-09-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1047,
+      "code": "4B-10-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 6,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1048,
+      "code": "4B-01-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 18,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-MS",
+          "name": "Magic Mouse",
+          "quantity": 18
+        }
+      ]
+    },
+    {
+      "id": 1049,
+      "code": "4B-02-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1050,
+      "code": "4B-03-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1051,
+      "code": "4B-04-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1052,
+      "code": "4B-06-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1053,
+      "code": "4B-07-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1054,
+      "code": "4B-08-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1055,
+      "code": "4B-09-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1056,
+      "code": "4B-10-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 7,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1057,
+      "code": "#V_#C_6_8_1_3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1058,
+      "code": "4C-01-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1059,
+      "code": "4C-02-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1060,
+      "code": "4C-03-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1061,
+      "code": "4C-04-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1062,
+      "code": "4C-05-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1063,
+      "code": "4C-06-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 38,
+      "items": [
+        {
+          "barcode": "AP-IPAD-AIR5",
+          "name": "iPad Air 5",
+          "quantity": 38
+        }
+      ]
+    },
+    {
+      "id": 1064,
+      "code": "4C-07-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1065,
+      "code": "4C-08-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1066,
+      "code": "4C-09-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1067,
+      "code": "4C-10-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 8,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1068,
+      "code": "4C-01-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1069,
+      "code": "4C-02-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 27,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 27
+        }
+      ]
+    },
+    {
+      "id": 1070,
+      "code": "4C-03-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1071,
+      "code": "4C-04-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1072,
+      "code": "#V_#柱_11_9_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1073,
+      "code": "4C-06-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1074,
+      "code": "4C-07-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1075,
+      "code": "4C-08-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1076,
+      "code": "4C-09-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 82,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 82
+        }
+      ]
+    },
+    {
+      "id": 1077,
+      "code": "4C-10-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 9,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1078,
+      "code": "4C-01-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1079,
+      "code": "4C-02-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1080,
+      "code": "4C-03-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1081,
+      "code": "4C-04-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 47,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-KB",
+          "name": "Magic Keyboard",
+          "quantity": 47
+        }
+      ]
+    },
+    {
+      "id": 1082,
+      "code": "4C-06-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1083,
+      "code": "4C-07-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1084,
+      "code": "4C-08-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 23,
+      "items": [
+        {
+          "barcode": "AP-AW-U2",
+          "name": "Apple Watch Ultra 2",
+          "quantity": 23
+        }
+      ]
+    },
+    {
+      "id": 1085,
+      "code": "4C-09-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1086,
+      "code": "4C-10-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 10,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1087,
+      "code": "#V_#走道2_3_11_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 11,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1088,
+      "code": "#V_#D_7_12_1_3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1089,
+      "code": "4D-01-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1090,
+      "code": "4D-02-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1091,
+      "code": "4D-03-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1092,
+      "code": "4D-04-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 13,
+      "items": [
+        {
+          "barcode": "AP-STUDIO-DISP",
+          "name": "Studio Display",
+          "quantity": 13
+        }
+      ]
+    },
+    {
+      "id": 1093,
+      "code": "4D-05-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1094,
+      "code": "#V_#柱_13_12_1_3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1095,
+      "code": "4D-06-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1096,
+      "code": "4D-07-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1097,
+      "code": "4D-08-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 12,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1098,
+      "code": "4D-01-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1099,
+      "code": "4D-02-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1100,
+      "code": "4D-03-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1101,
+      "code": "#V_#柱_11_13_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1102,
+      "code": "4D-05-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1103,
+      "code": "4D-06-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1104,
+      "code": "4D-07-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1105,
+      "code": "4D-08-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 13,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1106,
+      "code": "4D-01-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 32,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "id": 1107,
+      "code": "4D-02-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1108,
+      "code": "4D-03-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1109,
+      "code": "4D-05-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1110,
+      "code": "4D-06-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1111,
+      "code": "4D-07-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1112,
+      "code": "4D-08-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 14,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1113,
+      "code": "#V_#E_3_15_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1114,
+      "code": "4E-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1115,
+      "code": "4E-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1116,
+      "code": "4E-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1117,
+      "code": "4E-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1118,
+      "code": "4E-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1119,
+      "code": "4E-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 24,
+      "items": [
+        {
+          "barcode": "AP-MS-BATT",
+          "name": "MagSafe 行動電源",
+          "quantity": 24
+        }
+      ]
+    },
+    {
+      "id": 1120,
+      "code": "4E-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1121,
+      "code": "4E-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1122,
+      "code": "4E-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1123,
+      "code": "4E-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1124,
+      "code": "4E-11-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1125,
+      "code": "4E-12-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1126,
+      "code": "4E-13-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 15,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1127,
+      "code": "4E-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1128,
+      "code": "4E-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1129,
+      "code": "4E-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1130,
+      "code": "4E-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1131,
+      "code": "4E-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1132,
+      "code": "4E-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 6,
+      "items": [
+        {
+          "barcode": "AP-MAC-STUDIO",
+          "name": "Mac Studio",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": 1133,
+      "code": "4E-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1134,
+      "code": "#V_#柱_11_16_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1135,
+      "code": "4E-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1136,
+      "code": "4E-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1137,
+      "code": "4E-11-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1138,
+      "code": "4E-12-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1139,
+      "code": "4E-13-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 16,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1140,
+      "code": "4E-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1141,
+      "code": "4E-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1142,
+      "code": "4E-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1143,
+      "code": "4E-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1144,
+      "code": "4E-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1145,
+      "code": "4E-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1146,
+      "code": "4E-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1147,
+      "code": "4E-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1148,
+      "code": "4E-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 309,
+      "items": [
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 309
+        }
+      ]
+    },
+    {
+      "id": 1149,
+      "code": "4E-11-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1150,
+      "code": "4E-12-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1151,
+      "code": "4E-13-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 17,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1152,
+      "code": "#V_#走道3_3_18_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 18,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1153,
+      "code": "#V_#F_3_19_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1154,
+      "code": "4F-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1155,
+      "code": "4F-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1156,
+      "code": "4F-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1157,
+      "code": "4F-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1158,
+      "code": "4F-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1159,
+      "code": "4F-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1160,
+      "code": "4F-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1161,
+      "code": "4F-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1162,
+      "code": "4F-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1163,
+      "code": "4F-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1164,
+      "code": "4F-11-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1165,
+      "code": "4F-12-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1166,
+      "code": "4F-13-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 19,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1167,
+      "code": "4F-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 139,
+      "items": [
+        {
+          "barcode": "AP-AIRPODS-P2",
+          "name": "AirPods Pro 2",
+          "quantity": 139
+        }
+      ]
+    },
+    {
+      "id": 1168,
+      "code": "4F-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1169,
+      "code": "4F-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1170,
+      "code": "4F-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1171,
+      "code": "4F-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1172,
+      "code": "4F-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1173,
+      "code": "4F-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1174,
+      "code": "#V_#柱_11_20_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1175,
+      "code": "4F-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 10,
+      "items": [
+        {
+          "barcode": "AP-AIRPODS-3",
+          "name": "AirPods 3",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": 1176,
+      "code": "4F-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1177,
+      "code": "4F-11-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1178,
+      "code": "4F-12-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1179,
+      "code": "4F-13-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 20,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1180,
+      "code": "4F-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1181,
+      "code": "4F-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 5,
+      "items": [
+        {
+          "barcode": "AP-STUDIO-DISP",
+          "name": "Studio Display",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": 1182,
+      "code": "4F-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1183,
+      "code": "4F-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1184,
+      "code": "4F-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 31,
+      "items": [
+        {
+          "barcode": "AP-MAC-MINI",
+          "name": "Mac mini",
+          "quantity": 31
+        }
+      ]
+    },
+    {
+      "id": 1185,
+      "code": "4F-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1186,
+      "code": "4F-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1187,
+      "code": "4F-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1188,
+      "code": "4F-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1189,
+      "code": "4F-11-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1190,
+      "code": "4F-12-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 11,
+      "items": [
+        {
+          "barcode": "AP-MBA13-M2",
+          "name": "MacBook Air 13\"",
+          "quantity": 11
+        }
+      ]
+    },
+    {
+      "id": 1191,
+      "code": "4F-13-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 21,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1192,
+      "code": "#V_#G_3_22_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1193,
+      "code": "4G-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1194,
+      "code": "4G-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1195,
+      "code": "4G-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1196,
+      "code": "4G-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1197,
+      "code": "4G-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1198,
+      "code": "4G-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1199,
+      "code": "#V_#柱_10_22_1_3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1200,
+      "code": "4G-07-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1201,
+      "code": "4G-08-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1202,
+      "code": "#V_#柱_13_22_1_3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1203,
+      "code": "4G-09-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1204,
+      "code": "4G-10-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1205,
+      "code": "4G-11-3",
+      "type": "SHELF",
+      "x": 16,
+      "y": 22,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1206,
+      "code": "4G-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 348,
+      "items": [
+        {
+          "barcode": "AP-AG-4PK",
+          "name": "AirTag 4件裝",
+          "quantity": 329
+        },
+        {
+          "barcode": "AP-MAC-MINI",
+          "name": "Mac mini",
+          "quantity": 19
+        }
+      ]
+    },
+    {
+      "id": 1207,
+      "code": "4G-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 11,
+      "items": [
+        {
+          "barcode": "AP-MAC-STUDIO",
+          "name": "Mac Studio",
+          "quantity": 11
+        }
+      ]
+    },
+    {
+      "id": 1208,
+      "code": "4G-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1209,
+      "code": "4G-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1210,
+      "code": "4G-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 121,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 121
+        }
+      ]
+    },
+    {
+      "id": 1211,
+      "code": "4G-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1212,
+      "code": "#V_#柱_11_23_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1213,
+      "code": "4G-08-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1214,
+      "code": "4G-09-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1215,
+      "code": "4G-10-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1216,
+      "code": "4G-11-2",
+      "type": "SHELF",
+      "x": 16,
+      "y": 23,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1217,
+      "code": "4G-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1218,
+      "code": "4G-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1219,
+      "code": "4G-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1220,
+      "code": "4G-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 94,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-MS",
+          "name": "Magic Mouse",
+          "quantity": 94
+        }
+      ]
+    },
+    {
+      "id": 1221,
+      "code": "4G-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1222,
+      "code": "4G-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1223,
+      "code": "4G-08-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1224,
+      "code": "4G-09-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 26,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-MS",
+          "name": "Magic Mouse",
+          "quantity": 26
+        }
+      ]
+    },
+    {
+      "id": 1225,
+      "code": "4G-10-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1226,
+      "code": "4G-11-1",
+      "type": "SHELF",
+      "x": 16,
+      "y": 24,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1227,
+      "code": "#V_#大門_0_25_1_5",
+      "type": "SHELF",
+      "x": 0,
+      "y": 25,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1228,
+      "code": "#V_#走道4_3_25_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 25,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1229,
+      "code": "#V_#H_3_26_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1230,
+      "code": "4H-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1231,
+      "code": "4H-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1232,
+      "code": "4H-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1233,
+      "code": "4H-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1234,
+      "code": "4H-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1235,
+      "code": "4H-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 49,
+      "items": [
+        {
+          "barcode": "AP-ATV-4K",
+          "name": "Apple TV 4K",
+          "quantity": 49
+        }
+      ]
+    },
+    {
+      "id": 1236,
+      "code": "4H-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1237,
+      "code": "4H-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 134,
+      "items": [
+        {
+          "barcode": "AP-MS-BATT",
+          "name": "MagSafe 行動電源",
+          "quantity": 134
+        }
+      ]
+    },
+    {
+      "id": 1238,
+      "code": "4H-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1239,
+      "code": "4H-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 26,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1240,
+      "code": "4H-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1241,
+      "code": "4H-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1242,
+      "code": "4H-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 69,
+      "items": [
+        {
+          "barcode": "AP-AG-4PK",
+          "name": "AirTag 4件裝",
+          "quantity": 69
+        }
+      ]
+    },
+    {
+      "id": 1243,
+      "code": "4H-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1244,
+      "code": "4H-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1245,
+      "code": "4H-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1246,
+      "code": "4H-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1247,
+      "code": "#V_#柱_11_27_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1248,
+      "code": "4H-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1249,
+      "code": "4H-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 27,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1250,
+      "code": "4H-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1251,
+      "code": "4H-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1252,
+      "code": "4H-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1253,
+      "code": "4H-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1254,
+      "code": "4H-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1255,
+      "code": "4H-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 29,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-KB",
+          "name": "Magic Keyboard",
+          "quantity": 29
+        }
+      ]
+    },
+    {
+      "id": 1256,
+      "code": "4H-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1257,
+      "code": "4H-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1258,
+      "code": "4H-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 28,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1259,
+      "code": "#V_#J_3_29_1_3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1260,
+      "code": "4J-01-3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 98,
+      "items": [
+        {
+          "barcode": "AP-HP-MINI",
+          "name": "HomePod mini",
+          "quantity": 98
+        }
+      ]
+    },
+    {
+      "id": 1261,
+      "code": "4J-02-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 161,
+      "items": [
+        {
+          "barcode": "AP-AIRPODS-P2",
+          "name": "AirPods Pro 2",
+          "quantity": 161
+        }
+      ]
+    },
+    {
+      "id": 1262,
+      "code": "4J-03-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1263,
+      "code": "4J-04-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1264,
+      "code": "4J-05-3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1265,
+      "code": "4J-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1266,
+      "code": "4J-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1267,
+      "code": "4J-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1268,
+      "code": "4J-09-3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 428,
+      "items": [
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 428
+        }
+      ]
+    },
+    {
+      "id": 1269,
+      "code": "4J-10-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 29,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1270,
+      "code": "4J-01-2",
+      "type": "SHELF",
+      "x": 4,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1271,
+      "code": "4J-02-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1272,
+      "code": "4J-03-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1273,
+      "code": "4J-04-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1274,
+      "code": "4J-05-2",
+      "type": "SHELF",
+      "x": 8,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1275,
+      "code": "4J-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1276,
+      "code": "4J-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1277,
+      "code": "#V_#柱_11_30_1_2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1278,
+      "code": "4J-09-2",
+      "type": "SHELF",
+      "x": 12,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1279,
+      "code": "4J-10-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 30,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1280,
+      "code": "4J-01-1",
+      "type": "SHELF",
+      "x": 4,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1281,
+      "code": "4J-02-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1282,
+      "code": "4J-03-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1283,
+      "code": "4J-04-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1284,
+      "code": "4J-05-1",
+      "type": "SHELF",
+      "x": 8,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1285,
+      "code": "4J-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1286,
+      "code": "4J-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1287,
+      "code": "4J-09-1",
+      "type": "SHELF",
+      "x": 12,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1288,
+      "code": "4J-10-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 31,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1289,
+      "code": "#V_#走道5_3_32_15_1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 32,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1290,
+      "code": "#V_#K_1_33_1_3",
+      "type": "SHELF",
+      "x": 1,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1291,
+      "code": "4K-01-3",
+      "type": "SHELF",
+      "x": 2,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1292,
+      "code": "4K-02-3",
+      "type": "SHELF",
+      "x": 3,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1293,
+      "code": "#V_#柱_4_33_1_3",
+      "type": "SHELF",
+      "x": 4,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1294,
+      "code": "4K-03-3",
+      "type": "SHELF",
+      "x": 5,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1295,
+      "code": "4K-04-3",
+      "type": "SHELF",
+      "x": 6,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1296,
+      "code": "4K-05-3",
+      "type": "SHELF",
+      "x": 7,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1297,
+      "code": "#V_#柱_8_33_1_3",
+      "type": "SHELF",
+      "x": 8,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1298,
+      "code": "4K-06-3",
+      "type": "SHELF",
+      "x": 9,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1299,
+      "code": "4K-07-3",
+      "type": "SHELF",
+      "x": 10,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 73,
+      "items": [
+        {
+          "barcode": "AP-IP15-128",
+          "name": "iPhone 15 128GB",
+          "quantity": 73
+        }
+      ]
+    },
+    {
+      "id": 1300,
+      "code": "4K-08-3",
+      "type": "SHELF",
+      "x": 11,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1301,
+      "code": "#V_#柱_12_33_1_3",
+      "type": "SHELF",
+      "x": 12,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1302,
+      "code": "4K-09-3",
+      "type": "SHELF",
+      "x": 13,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1303,
+      "code": "4K-10-3",
+      "type": "SHELF",
+      "x": 14,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1304,
+      "code": "4K-11-3",
+      "type": "SHELF",
+      "x": 15,
+      "y": 33,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1305,
+      "code": "4K-01-2",
+      "type": "SHELF",
+      "x": 2,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1306,
+      "code": "4K-02-2",
+      "type": "SHELF",
+      "x": 3,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1307,
+      "code": "4K-03-2",
+      "type": "SHELF",
+      "x": 5,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1308,
+      "code": "4K-04-2",
+      "type": "SHELF",
+      "x": 6,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1309,
+      "code": "4K-05-2",
+      "type": "SHELF",
+      "x": 7,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 240,
+      "items": [
+        {
+          "barcode": "AP-AG-4PK",
+          "name": "AirTag 4件裝",
+          "quantity": 240
+        }
+      ]
+    },
+    {
+      "id": 1310,
+      "code": "4K-06-2",
+      "type": "SHELF",
+      "x": 9,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1311,
+      "code": "4K-07-2",
+      "type": "SHELF",
+      "x": 10,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1312,
+      "code": "4K-08-2",
+      "type": "SHELF",
+      "x": 11,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1313,
+      "code": "4K-09-2",
+      "type": "SHELF",
+      "x": 13,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1314,
+      "code": "4K-10-2",
+      "type": "SHELF",
+      "x": 14,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1315,
+      "code": "4K-11-2",
+      "type": "SHELF",
+      "x": 15,
+      "y": 34,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1316,
+      "code": "4K-01-1",
+      "type": "SHELF",
+      "x": 2,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1317,
+      "code": "4K-02-1",
+      "type": "SHELF",
+      "x": 3,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1318,
+      "code": "4K-03-1",
+      "type": "SHELF",
+      "x": 5,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1319,
+      "code": "4K-04-1",
+      "type": "SHELF",
+      "x": 6,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1320,
+      "code": "4K-05-1",
+      "type": "SHELF",
+      "x": 7,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1321,
+      "code": "4K-06-1",
+      "type": "SHELF",
+      "x": 9,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1322,
+      "code": "4K-07-1",
+      "type": "SHELF",
+      "x": 10,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1323,
+      "code": "4K-08-1",
+      "type": "SHELF",
+      "x": 11,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 266,
+      "items": [
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 266
+        }
+      ]
+    },
+    {
+      "id": 1324,
+      "code": "4K-09-1",
+      "type": "SHELF",
+      "x": 13,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1325,
+      "code": "4K-10-1",
+      "type": "SHELF",
+      "x": 14,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    },
+    {
+      "id": 1326,
+      "code": "4K-11-1",
+      "type": "SHELF",
+      "x": 15,
+      "y": 35,
+      "capacity": 100,
+      "floor": "4F",
+      "total_quantity": 0,
+      "items": []
+    }
+  ],
+  "mockTransactions": [
+    {
+      "id": 8,
+      "timestamp": "2026-02-27T21:07:56.677Z",
+      "type": "OUT",
+      "quantity": 7,
+      "is_deleted": 0,
+      "barcode": "AP-MBA13-M2",
+      "item_name": "MacBook Air 13\"",
+      "location_code": "3A-04-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-02-27T07:38:35.270Z",
+      "type": "OUT",
+      "quantity": 1,
+      "is_deleted": 0,
+      "barcode": "AP-IP15P-256",
+      "item_name": "iPhone 15 Pro 256GB",
+      "location_code": "3F-12-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 10,
+      "timestamp": "2026-02-26T23:34:56.604Z",
+      "type": "IN",
+      "quantity": 9,
+      "is_deleted": 0,
+      "barcode": "AP-MBA13-M2",
+      "item_name": "MacBook Air 13\"",
+      "location_code": "3E-10-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 13,
+      "timestamp": "2026-02-26T09:26:18.539Z",
+      "type": "IN",
+      "quantity": 3,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-PRO11",
+      "item_name": "iPad Pro 11\"",
+      "location_code": "3A-07-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 15,
+      "timestamp": "2026-02-25T19:00:48.343Z",
+      "type": "OUT",
+      "quantity": 5,
+      "is_deleted": 0,
+      "barcode": "AP-AW-S9",
+      "item_name": "Apple Watch Series 9",
+      "location_code": "4C-09-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-02-24T15:38:45.772Z",
+      "type": "IN",
+      "quantity": 5,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-AIR5",
+      "item_name": "iPad Air 5",
+      "location_code": "4C-06-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 9,
+      "timestamp": "2026-02-24T12:37:23.508Z",
+      "type": "IN",
+      "quantity": 2,
+      "is_deleted": 0,
+      "barcode": "AP-MBA13-M2",
+      "item_name": "MacBook Air 13\"",
+      "location_code": "4F-12-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 11,
+      "timestamp": "2026-02-23T20:25:42.842Z",
+      "type": "OUT",
+      "quantity": 2,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-AIR5",
+      "item_name": "iPad Air 5",
+      "location_code": "3J-02-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 14,
+      "timestamp": "2026-02-23T15:46:49.388Z",
+      "type": "IN",
+      "quantity": 9,
+      "is_deleted": 0,
+      "barcode": "AP-AW-S9",
+      "item_name": "Apple Watch Series 9",
+      "location_code": "3G-11-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-02-22T14:07:39.147Z",
+      "type": "OUT",
+      "quantity": 5,
+      "is_deleted": 0,
+      "barcode": "AP-MBP14-M3",
+      "item_name": "MacBook Pro 14\"",
+      "location_code": "3H-01-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-02-22T09:15:35.242Z",
+      "type": "IN",
+      "quantity": 3,
+      "is_deleted": 0,
+      "barcode": "AP-MBP14-M3",
+      "item_name": "MacBook Pro 14\"",
+      "location_code": "4D-01-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-02-22T02:36:36.233Z",
+      "type": "IN",
+      "quantity": 6,
+      "is_deleted": 0,
+      "barcode": "AP-MBP14-M3",
+      "item_name": "MacBook Pro 14\"",
+      "location_code": "3J-01-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-02-22T01:15:42.113Z",
+      "type": "IN",
+      "quantity": 10,
+      "is_deleted": 0,
+      "barcode": "AP-IP15P-256",
+      "item_name": "iPhone 15 Pro 256GB",
+      "location_code": "3F-05-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 1,
+      "timestamp": "2026-02-22T00:38:28.046Z",
+      "type": "IN",
+      "quantity": 7,
+      "is_deleted": 0,
+      "barcode": "AP-IP15-128",
+      "item_name": "iPhone 15 128GB",
+      "location_code": "4K-07-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-02-21T19:10:03.718Z",
+      "type": "IN",
+      "quantity": 5,
+      "is_deleted": 0,
+      "barcode": "AP-MBP14-M3",
+      "item_name": "MacBook Pro 14\"",
+      "location_code": "3B-08-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    }
+  ],
+  "mockBom": [
+    {
+      "id": 1,
+      "main_barcode": "BOM-MAC-STUDIO-SET",
+      "main_name": "Mac Studio 設計套餐",
+      "component_barcode": "AP-MAC-STUDIO",
+      "component_name": "Mac Studio",
+      "required_qty": 1
+    },
+    {
+      "id": 2,
+      "main_barcode": "BOM-MAC-STUDIO-SET",
+      "main_name": "Mac Studio 設計套餐",
+      "component_barcode": "AP-STUDIO-DISP",
+      "component_name": "Studio Display",
+      "required_qty": 2
+    },
+    {
+      "id": 3,
+      "main_barcode": "BOM-MAC-STUDIO-SET",
+      "main_name": "Mac Studio 設計套餐",
+      "component_barcode": "AP-MAGIC-KB",
+      "component_name": "Magic Keyboard",
+      "required_qty": 1
+    },
+    {
+      "id": 4,
+      "main_barcode": "BOM-MAC-STUDIO-SET",
+      "main_name": "Mac Studio 設計套餐",
+      "component_barcode": "AP-MAGIC-MS",
+      "component_name": "Magic Mouse",
+      "required_qty": 1
+    },
+    {
+      "id": 5,
+      "main_barcode": "BOM-IP15-GIFT",
+      "main_name": "iPhone 15 新機禮包",
+      "component_barcode": "AP-IP15-128",
+      "component_name": "iPhone 15 128GB",
+      "required_qty": 1
+    },
+    {
+      "id": 6,
+      "main_barcode": "BOM-IP15-GIFT",
+      "main_name": "iPhone 15 新機禮包",
+      "component_barcode": "AP-AIRPODS-P2",
+      "component_name": "AirPods Pro 2",
+      "required_qty": 1
+    },
+    {
+      "id": 7,
+      "main_barcode": "BOM-IP15-GIFT",
+      "main_name": "iPhone 15 新機禮包",
+      "component_barcode": "AP-ADAPTER-20W",
+      "component_name": "20W USB-C 電源轉接器",
+      "required_qty": 1
+    },
+    {
+      "id": 8,
+      "main_barcode": "BOM-IPAD-DRAW",
+      "main_name": "iPad 繪圖套組",
+      "component_barcode": "AP-IPAD-PRO11",
+      "component_name": "iPad Pro 11\"",
+      "required_qty": 1
+    },
+    {
+      "id": 9,
+      "main_barcode": "BOM-IPAD-DRAW",
+      "main_name": "iPad 繪圖套組",
+      "component_barcode": "AP-PENCIL-2",
+      "component_name": "Apple Pencil 2",
+      "required_qty": 1
+    }
+  ],
+  "mockUsers": [
+    {
+      "id": 1,
+      "employee_id": "admin",
+      "name": "Admin User",
+      "unit": "IT",
+      "group_name": "管理者",
+      "permissions": [
+        "ALL"
+      ],
+      "email": "admin@example.com"
+    },
+    {
+      "id": 2,
+      "employee_id": "demo",
+      "name": "Demo User",
+      "unit": "展示專用",
+      "group_name": "員工",
+      "permissions": [
+        "Inventory",
+        "Transactions"
+      ],
+      "email": "demo@example.com"
+    }
+  ]
+}
