@@ -8039,8 +8039,7 @@
       "unit": "展示專用",
       "group_name": "員工",
       "permissions": [
-        "Inventory",
-        "Transactions"
+        "ALL"
       ],
       "email": "demo@example.com"
     }
