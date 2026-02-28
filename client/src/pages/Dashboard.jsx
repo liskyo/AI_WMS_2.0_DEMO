@@ -100,8 +100,12 @@ const Dashboard = () => {
                     if (comp.locations) {
                         const locs = comp.locations.split(',');
                         locs.forEach(loc => {
-                            const [trimmedLoc, qtyStr] = loc.trim().split(':');
-                            if (!trimmedLoc) return;
+                            // Extract LocationCode and Optional Quantity from "LOC" or "LOC(QTY)"
+                            const match = loc.trim().match(/^([^(]+)(?:\((\d+)\))?$/);
+                            if (!match) return;
+                            const trimmedLoc = match[1].trim();
+                            const qtyStr = match[2] || '0';
+
                             if (!locMap[trimmedLoc]) locMap[trimmedLoc] = [];
                             locMap[trimmedLoc].push({
                                 barcode: comp.component_barcode,
@@ -262,8 +266,18 @@ const Dashboard = () => {
                                     <span className="text-gray-500">庫存: <span className={comp.current_stock < comp.required_qty ? "text-red-400 font-bold" : "text-green-400 font-bold"}>{comp.current_stock}</span></span>
                                     <span className="text-gray-500">單套用量: <span className="text-white">{comp.required_qty}</span></span>
                                 </div>
-                                <div className="text-xs text-green-500 mt-2 font-mono">
-                                    儲位: {comp.locations ? comp.locations.split(',').map(l => l.split(':')[0]).join(',') : '無'}
+                                <div className="mt-2 flex flex-wrap gap-1">
+                                    <span className="text-xs text-gray-500 mr-1 mt-0.5">儲位:</span>
+                                    {comp.locations ? comp.locations.split(',').map((l, i) => {
+                                        const match = l.trim().match(/^([^(]+)(?:\((\d+)\))?$/);
+                                        if (!match) return null;
+                                        return (
+                                            <span key={i} className="inline-flex items-center bg-gray-900 border border-gray-700 rounded-full px-2 py-0.5 text-xs font-mono shadow-sm">
+                                                <span className="text-blue-400 font-bold">{match[1]}</span>
+                                                {match[2] && <span className="ml-1 text-yellow-500 bg-yellow-500/10 px-1 rounded">({match[2]})</span>}
+                                            </span>
+                                        );
+                                    }) : <span className="text-xs text-gray-500">無</span>}
                                 </div>
                             </div>
                         ))}
@@ -285,8 +299,8 @@ const Dashboard = () => {
                                         key={floor}
                                         onClick={() => setActiveFloor(floor)}
                                         className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors whitespace-nowrap ${activeFloor === floor
-                                                ? 'bg-blue-600 text-white shadow'
-                                                : 'text-gray-400 hover:text-white hover:bg-gray-700'
+                                            ? 'bg-blue-600 text-white shadow'
+                                            : 'text-gray-400 hover:text-white hover:bg-gray-700'
                                             }`}
                                     >
                                         {floor}
