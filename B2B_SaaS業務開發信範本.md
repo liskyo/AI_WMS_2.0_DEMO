@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="C:\Users\liskyo\Desktop\AI智慧倉儲2.0\AI_WMS_2.0\LOGO1.png" width="180" alt="starwish studio Logo">
+  <img src="C:\Users\liskyo\Desktop\AI_WMS_2.0_DEMO\LOGO1.png" width="180" alt="starwish studio Logo">
   <h1 style="color: #0c2461; border-bottom: 3px solid #00d2d3; padding-bottom: 12px; font-family: 'Segoe UI', sans-serif;">
     智慧倉儲動態管理系統 業務信函
   </h1>
@@ -14,7 +14,7 @@
 
 **[客戶公司名稱] 負責人 / 廠長 您好，**
 
-我是 Sky.lo (starwish studio 產品開發團隊)，近期關注到貴公司業績成長快速，且正在擴編理貨與倉管團隊。
+我是 Sky (starwish studio 產品開發團隊)，近期關注到貴公司業績成長快速，且正在擴編理貨與倉管團隊。
 
 許多像貴公司一樣正處於訂單爆發期的企業，常面臨以下痛點：
 ❌ **依賴老手記憶**：新人找貨慢、記不住複雜儲位，出錯貨導致客訴頻傳？
@@ -26,17 +26,18 @@
 ### 📱 1. 手機就是掃描槍：設備成本趨近於零
 不需要購買昂貴的工業用 PDA！員工只需使用自己的智慧型手機開啟網頁，即可掃描條碼。內建非同步防呆機制，只要刷錯商品或走錯儲位，手機畫面立即跳出紅色警告並阻擋入庫，讓阿姨也能輕鬆做到零錯件。
 
-> 📎 *(操作提示：請在這裡直接貼上你用 ScreenToGif 錄製的「手機掃描與防呆警告」GIF 動圖)*
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ### 🗺️ 2. 視覺化 2D 地圖導航：新人首日即戰力
 告別密密麻麻的紙本進出庫單！系統擁有獨家「動態儲位地圖」，當收到包含多種零組件的訂單時（支援 BOM 表展開），地圖上對應的儲位會自動亮起「紅色呼吸燈」。新人只要看著螢幕哪裡亮燈就去哪裡拿貨，徹底釋放老手帶新人的時間成本。
 
-> 📎 *(操作提示：請在這裡直接貼上 MapGrid 呈現「2D 儲位格子亮燈導航」的 GIF 動圖)*
+![alt text](image-1.png)
 
 ### 📊 3. 即時戰情室 (Dashboard)：老闆的專屬千里眼
 告別落落長的 Excel 報表！打開網頁，廠區的即時進出庫動態、各儲位容積率一目了然。系統內建「安全庫存警示引擎」，只要料件低於安全水位，儀表板立刻出現醒目紅字警告，並可一鍵匯出「建議採購清單」，無縫接軌採購流程。
 
-> 📎 *(操作提示：請在這裡直接貼上 Dashboard 帶有低庫存警示與圖表的高畫質截圖)*
+![alt text](image.png)
 
 ---
 
@@ -56,8 +57,7 @@
 
 敬祝 商祺，
 
-**Sky.lo** starwish studio 業務暨開發部  
-📧 Email: [您的信箱]  
-📞 連絡電話: [您的手機或公司電話]  
-🌐 系統線上展示：[請填入您未來的正式宣傳網址，例如 https://demo.starwish-wms.com]  
-*(註：若目前尚未有線上宣傳網址，此行可改為：🎥 系統操作展示影片：[YouTube 影片連結])*
+**Sky** starwish studio 業務暨開發部  
+📧 Email: [liskyo5470@gmail.com]  
+📞 連絡電話: [0919675xxx]  
+🌐 系統線上展示：[https://ai-wms-demo.vercel.app/dashboard]  
