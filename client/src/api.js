@@ -245,15 +245,42 @@ export const importBom = async (bomData, token) => {
     await delay();
     return createResponse({ success: true });
 };
-
 export const getBom = async (main_barcode = '') => {
     await delay();
+    let sourceBom = mockBom;
     if (main_barcode) {
-        return createResponse(mockBom.filter(b => b.main_barcode.includes(main_barcode)));
+        sourceBom = mockBom.filter(b => b.main_barcode.includes(main_barcode));
     }
-    return createResponse(mockBom);
-};
 
+    const grouped = sourceBom.reduce((acc, curr) => {
+        let group = acc.find(g => g.main_barcode === curr.main_barcode);
+        if (!group) {
+            group = {
+                main_barcode: curr.main_barcode,
+                main_name: curr.main_name,
+                components: []
+            };
+            acc.push(group);
+        }
+
+        // Find current stock and locations for this component
+        const compItem = mockItems.find(i => i.barcode === curr.component_barcode);
+
+        group.components.push({
+            component_barcode: curr.component_barcode,
+            component_name: curr.component_name || (compItem ? compItem.name : ''),
+            description: compItem ? compItem.description : '',
+            required_qty: curr.required_qty,
+            current_stock: compItem ? compItem.total_quantity : 0,
+            safe_stock: compItem ? compItem.safe_stock : 0,
+            locations: compItem ? compItem.locations : ''
+        });
+
+        return acc;
+    }, []);
+
+    return createResponse(grouped);
+};
 export const submitBomTransaction = async (data, token) => {
     await delay();
     return createResponse({ success: true });
