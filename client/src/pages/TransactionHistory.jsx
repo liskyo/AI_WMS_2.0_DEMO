@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import api, { voidTransaction } from '../api';
+import { getTransactions, voidTransaction } from '../api';
 import { Download, Search, Clock, User, Package, MapPin, ArrowDownToLine, ArrowUpFromLine, Trash2, Eye, EyeOff, AlertTriangle } from 'lucide-react';
 import * as XLSX from 'xlsx';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -26,7 +26,7 @@ const TransactionHistory = () => {
 
     const fetchTransactions = async () => {
         try {
-            const res = await api.get('/transactions');
+            const res = await getTransactions();
             setTransactions(res.data);
         } catch (err) {
             console.error('Error fetching transactions:', err);

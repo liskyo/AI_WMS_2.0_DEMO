@@ -139,20 +139,22 @@ mockItems.forEach(item => {
 
 // Mock Transactions
 const mockTransactions = [];
-inventoryRecords.slice(0, 15).forEach((rec, index) => {
+// Generate around 50 transactions
+inventoryRecords.slice(0, 50).forEach((rec, index) => {
+    const isDeleted = Math.random() > 0.85; // 15% chance to be deleted
     mockTransactions.push({
         id: index + 1,
-        timestamp: new Date(Date.now() - (Math.random() * 7 * 86400000)).toISOString(),
-        type: Math.random() > 0.3 ? 'IN' : 'OUT',
-        quantity: Math.floor(Math.random() * 10) + 1,
-        is_deleted: 0,
+        timestamp: new Date(Date.now() - (Math.random() * 30 * 86400000)).toISOString(), // Last 30 days
+        type: Math.random() > 0.4 ? 'IN' : 'OUT',
+        quantity: Math.floor(Math.random() * 20) + 1,
+        is_deleted: isDeleted ? 1 : 0,
         barcode: rec.barcode,
         item_name: rec.item_name,
         location_code: rec.location_code,
         employee_id: 'demo',
         user_name: 'Demo User',
-        deleter_name: null,
-        deleter_id: null
+        deleter_name: isDeleted ? 'Admin User' : null,
+        deleter_id: isDeleted ? 'admin' : null
     });
 });
 

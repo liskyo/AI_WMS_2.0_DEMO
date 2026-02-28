@@ -8,8 +8,8 @@
       "description": "午夜色",
       "unit": "台",
       "safe_stock": 50,
-      "total_quantity": 73,
-      "locations": "4K-07-3(73)"
+      "total_quantity": 61,
+      "locations": "3E-10-3(15),4E-05-3(46)"
     },
     {
       "id": 2,
@@ -19,8 +19,8 @@
       "description": "原色鈦金屬",
       "unit": "台",
       "safe_stock": 30,
-      "total_quantity": 117,
-      "locations": "3F-12-2(63),3F-05-3(54)"
+      "total_quantity": 19,
+      "locations": "3F-10-3(19)"
     },
     {
       "id": 3,
@@ -30,8 +30,8 @@
       "description": "M3 晶片, 8GB RAM, 512GB SSD",
       "unit": "台",
       "safe_stock": 20,
-      "total_quantity": 111,
-      "locations": "3J-01-2(12),4D-01-1(32),3H-01-2(32),3B-08-1(35)"
+      "total_quantity": 65,
+      "locations": "3J-06-1(6),3H-01-1(27),4G-11-3(19),4F-07-3(13)"
     },
     {
       "id": 4,
@@ -41,8 +41,8 @@
       "description": "M2 晶片, 太空灰",
       "unit": "台",
       "safe_stock": 25,
-      "total_quantity": 41,
-      "locations": "3A-04-1(21),4F-12-1(11),3E-10-1(9)"
+      "total_quantity": 70,
+      "locations": "3A-05-3(5),4A-02-3(35),3C-06-1(30)"
     },
     {
       "id": 5,
@@ -52,8 +52,8 @@
       "description": "64GB Wi-Fi 星光色",
       "unit": "台",
       "safe_stock": 40,
-      "total_quantity": 43,
-      "locations": "3J-02-3(5),4C-06-3(38)"
+      "total_quantity": 155,
+      "locations": "3J-09-3(43),3D-08-3(40),4D-07-2(72)"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "unit": "台",
       "safe_stock": 15,
       "total_quantity": 27,
-      "locations": "3A-07-3(27)"
+      "locations": "4C-06-2(5),4H-01-3(10),4E-13-2(12)"
     },
     {
       "id": 7,
@@ -74,8 +74,8 @@
       "description": "41mm 鋁金屬",
       "unit": "只",
       "safe_stock": 60,
-      "total_quantity": 274,
-      "locations": "3G-11-3(44),4C-09-2(82),4C-02-2(27),4G-05-2(121)"
+      "total_quantity": 246,
+      "locations": "4J-06-3(10),3B-01-2(102),4G-08-1(46),4K-05-3(88)"
     },
     {
       "id": 8,
@@ -85,8 +85,8 @@
       "description": "鈦金屬錶殼與高山錶環",
       "unit": "只",
       "safe_stock": 10,
-      "total_quantity": 41,
-      "locations": "4C-08-1(23),3D-05-3(18)"
+      "total_quantity": 39,
+      "locations": "3C-01-3(19),4F-09-3(14),3J-10-1(6)"
     },
     {
       "id": 9,
@@ -96,8 +96,8 @@
       "description": "MagSafe 充電盒",
       "unit": "副",
       "safe_stock": 100,
-      "total_quantity": 300,
-      "locations": "4F-01-2(139),4J-02-3(161)"
+      "total_quantity": 103,
+      "locations": "3H-04-2(103)"
     },
     {
       "id": 10,
@@ -107,8 +107,8 @@
       "description": "Lightning 充電盒",
       "unit": "副",
       "safe_stock": 80,
-      "total_quantity": 105,
-      "locations": "4F-09-2(10),3E-06-1(95)"
+      "total_quantity": 106,
+      "locations": "4J-04-3(106)"
     },
     {
       "id": 11,
@@ -118,8 +118,8 @@
       "description": "Wi-Fi 64GB",
       "unit": "台",
       "safe_stock": 30,
-      "total_quantity": 111,
-      "locations": "3H-04-2(62),4H-06-3(49)"
+      "total_quantity": 85,
+      "locations": "3G-07-1(29),3A-05-3(56)"
     },
     {
       "id": 12,
@@ -129,8 +129,8 @@
       "description": "太空灰",
       "unit": "台",
       "safe_stock": 50,
-      "total_quantity": 153,
-      "locations": "4J-01-3(98),3A-06-1(47),4B-04-2(8)"
+      "total_quantity": 42,
+      "locations": "3D-01-2(12),3G-06-3(30)"
     },
     {
       "id": 13,
@@ -140,8 +140,8 @@
       "description": "",
       "unit": "組",
       "safe_stock": 200,
-      "total_quantity": 777,
-      "locations": "4H-03-2(69),4K-05-2(240),4A-06-1(139),4G-01-2(329)"
+      "total_quantity": 495,
+      "locations": "4H-08-1(244),4K-02-3(251)"
     },
     {
       "id": 14,
@@ -151,8 +151,8 @@
       "description": "含 Touch ID，適用於 Mac",
       "unit": "個",
       "safe_stock": 40,
-      "total_quantity": 76,
-      "locations": "4H-06-1(29),4C-04-1(47)"
+      "total_quantity": 108,
+      "locations": "3E-08-1(73),4B-07-1(35)"
     },
     {
       "id": 15,
@@ -162,8 +162,8 @@
       "description": "黑色多點觸控表面",
       "unit": "個",
       "safe_stock": 60,
-      "total_quantity": 246,
-      "locations": "3K-03-3(108),4G-09-1(26),4B-01-1(18),4G-04-1(94)"
+      "total_quantity": 118,
+      "locations": "4K-04-2(118)"
     },
     {
       "id": 16,
@@ -173,8 +173,8 @@
       "description": "2 公尺",
       "unit": "條",
       "safe_stock": 300,
-      "total_quantity": 1328,
-      "locations": "3C-07-3(325),4E-10-1(309),4K-08-1(266),4J-09-3(428)"
+      "total_quantity": 1253,
+      "locations": "4K-05-3(378),3F-01-3(502),4D-03-2(373)"
     },
     {
       "id": 17,
@@ -184,8 +184,8 @@
       "description": "",
       "unit": "個",
       "safe_stock": 250,
-      "total_quantity": 457,
-      "locations": "3C-08-2(457)"
+      "total_quantity": 398,
+      "locations": "3A-07-2(160),4B-03-3(104),4E-06-3(134)"
     },
     {
       "id": 18,
@@ -195,8 +195,8 @@
       "description": "",
       "unit": "個",
       "safe_stock": 80,
-      "total_quantity": 158,
-      "locations": "4H-08-1(134),4E-06-3(24)"
+      "total_quantity": 53,
+      "locations": "3J-01-1(28),4E-09-2(25)"
     },
     {
       "id": 19,
@@ -206,8 +206,8 @@
       "description": "",
       "unit": "支給",
       "safe_stock": 120,
-      "total_quantity": 213,
-      "locations": "4A-05-2(213)"
+      "total_quantity": 787,
+      "locations": "4H-09-2(215),3H-04-1(227),4C-01-1(238),3E-09-3(107)"
     },
     {
       "id": 20,
@@ -217,8 +217,8 @@
       "description": "標準玻璃",
       "unit": "台",
       "safe_stock": 5,
-      "total_quantity": 18,
-      "locations": "4D-04-1(13),4F-02-1(5)"
+      "total_quantity": 5,
+      "locations": "4F-13-3(5)"
     },
     {
       "id": 21,
@@ -228,8 +228,8 @@
       "description": "M2 Max, 32GB RAM",
       "unit": "台",
       "safe_stock": 10,
-      "total_quantity": 17,
-      "locations": "4E-06-2(6),4G-02-2(11)"
+      "total_quantity": 68,
+      "locations": "3A-03-1(22),3J-03-2(5),4E-12-3(19),3G-10-3(22)"
     },
     {
       "id": 22,
@@ -239,8 +239,8 @@
       "description": "M2, 8GB RAM, 256GB SSD",
       "unit": "台",
       "safe_stock": 25,
-      "total_quantity": 73,
-      "locations": "3B-09-1(23),4F-05-1(31),4G-01-2(19)"
+      "total_quantity": 70,
+      "locations": "4F-10-3(43),3B-10-3(13),3F-03-3(14)"
     }
   ],
   "mockLocations": [
@@ -340,8 +340,19 @@
       "y": 1,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 61,
+      "items": [
+        {
+          "barcode": "AP-MBA13-M2",
+          "name": "MacBook Air 13\"",
+          "quantity": 5
+        },
+        {
+          "barcode": "AP-ATV-4K",
+          "name": "Apple TV 4K",
+          "quantity": 56
+        }
+      ]
     },
     {
       "id": 10,
@@ -362,14 +373,8 @@
       "y": 1,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 27,
-      "items": [
-        {
-          "barcode": "AP-IPAD-PRO11",
-          "name": "iPad Pro 11\"",
-          "quantity": 27
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 12,
@@ -445,8 +450,14 @@
       "y": 2,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 160,
+      "items": [
+        {
+          "barcode": "AP-ADAPTER-20W",
+          "name": "20W USB-C 電源轉接器",
+          "quantity": 160
+        }
+      ]
     },
     {
       "id": 19,
@@ -478,8 +489,14 @@
       "y": 3,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 22,
+      "items": [
+        {
+          "barcode": "AP-MAC-STUDIO",
+          "name": "Mac Studio",
+          "quantity": 22
+        }
+      ]
     },
     {
       "id": 22,
@@ -489,14 +506,8 @@
       "y": 3,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 21,
-      "items": [
-        {
-          "barcode": "AP-MBA13-M2",
-          "name": "MacBook Air 13\"",
-          "quantity": 21
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 23,
@@ -517,14 +528,8 @@
       "y": 3,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 47,
-      "items": [
-        {
-          "barcode": "AP-HP-MINI",
-          "name": "HomePod mini",
-          "quantity": 47
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 25,
@@ -666,8 +671,14 @@
       "y": 5,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 13,
+      "items": [
+        {
+          "barcode": "AP-MAC-MINI",
+          "name": "Mac mini",
+          "quantity": 13
+        }
+      ]
     },
     {
       "id": 38,
@@ -677,8 +688,14 @@
       "y": 6,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 102,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 102
+        }
+      ]
     },
     {
       "id": 39,
@@ -853,14 +870,8 @@
       "y": 7,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 35,
-      "items": [
-        {
-          "barcode": "AP-MBP14-M3",
-          "name": "MacBook Pro 14\"",
-          "quantity": 35
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 55,
@@ -870,14 +881,8 @@
       "y": 7,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 23,
-      "items": [
-        {
-          "barcode": "AP-MAC-MINI",
-          "name": "Mac mini",
-          "quantity": 23
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 56,
@@ -909,8 +914,14 @@
       "y": 8,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 19,
+      "items": [
+        {
+          "barcode": "AP-AW-U2",
+          "name": "Apple Watch Ultra 2",
+          "quantity": 19
+        }
+      ]
     },
     {
       "id": 59,
@@ -975,14 +986,8 @@
       "y": 8,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 325,
-      "items": [
-        {
-          "barcode": "AP-CABLE-USBC",
-          "name": "USB-C 充電連接線",
-          "quantity": 325
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 65,
@@ -1102,14 +1107,8 @@
       "y": 9,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 457,
-      "items": [
-        {
-          "barcode": "AP-ADAPTER-20W",
-          "name": "20W USB-C 電源轉接器",
-          "quantity": 457
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 76,
@@ -1185,8 +1184,14 @@
       "y": 10,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 30,
+      "items": [
+        {
+          "barcode": "AP-MBA13-M2",
+          "name": "MacBook Air 13\"",
+          "quantity": 30
+        }
+      ]
     },
     {
       "id": 83,
@@ -1306,14 +1311,8 @@
       "y": 12,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 18,
-      "items": [
-        {
-          "barcode": "AP-AW-U2",
-          "name": "Apple Watch Ultra 2",
-          "quantity": 18
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 94,
@@ -1356,8 +1355,14 @@
       "y": 12,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 40,
+      "items": [
+        {
+          "barcode": "AP-IPAD-AIR5",
+          "name": "iPad Air 5",
+          "quantity": 40
+        }
+      ]
     },
     {
       "id": 98,
@@ -1367,8 +1372,14 @@
       "y": 13,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 12,
+      "items": [
+        {
+          "barcode": "AP-HP-MINI",
+          "name": "HomePod mini",
+          "quantity": 12
+        }
+      ]
     },
     {
       "id": 99,
@@ -1620,8 +1631,14 @@
       "y": 15,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 73,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-KB",
+          "name": "Magic Keyboard",
+          "quantity": 73
+        }
+      ]
     },
     {
       "id": 122,
@@ -1631,8 +1648,14 @@
       "y": 15,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 107,
+      "items": [
+        {
+          "barcode": "AP-PENCIL-2",
+          "name": "Apple Pencil 2",
+          "quantity": 107
+        }
+      ]
     },
     {
       "id": 123,
@@ -1642,8 +1665,14 @@
       "y": 15,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 15,
+      "items": [
+        {
+          "barcode": "AP-IP15-128",
+          "name": "iPhone 15 128GB",
+          "quantity": 15
+        }
+      ]
     },
     {
       "id": 124,
@@ -1884,14 +1913,8 @@
       "y": 17,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 95,
-      "items": [
-        {
-          "barcode": "AP-AIRPODS-3",
-          "name": "AirPods 3",
-          "quantity": 95
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 146,
@@ -1923,14 +1946,8 @@
       "y": 17,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 9,
-      "items": [
-        {
-          "barcode": "AP-MBA13-M2",
-          "name": "MacBook Air 13\"",
-          "quantity": 9
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 149,
@@ -1995,8 +2012,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 502,
+      "items": [
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 502
+        }
+      ]
     },
     {
       "id": 155,
@@ -2017,8 +2040,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 14,
+      "items": [
+        {
+          "barcode": "AP-MAC-MINI",
+          "name": "Mac mini",
+          "quantity": 14
+        }
+      ]
     },
     {
       "id": 157,
@@ -2039,14 +2068,8 @@
       "y": 19,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 54,
-      "items": [
-        {
-          "barcode": "AP-IP15P-256",
-          "name": "iPhone 15 Pro 256GB",
-          "quantity": 54
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 159,
@@ -2100,8 +2123,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 19,
+      "items": [
+        {
+          "barcode": "AP-IP15P-256",
+          "name": "iPhone 15 Pro 256GB",
+          "quantity": 19
+        }
+      ]
     },
     {
       "id": 164,
@@ -2265,14 +2294,8 @@
       "y": 20,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 63,
-      "items": [
-        {
-          "barcode": "AP-IP15P-256",
-          "name": "iPhone 15 Pro 256GB",
-          "quantity": 63
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 179,
@@ -2491,8 +2514,14 @@
       "y": 22,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 30,
+      "items": [
+        {
+          "barcode": "AP-HP-MINI",
+          "name": "HomePod mini",
+          "quantity": 30
+        }
+      ]
     },
     {
       "id": 199,
@@ -2513,8 +2542,14 @@
       "y": 22,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 29,
+      "items": [
+        {
+          "barcode": "AP-ATV-4K",
+          "name": "Apple TV 4K",
+          "quantity": 29
+        }
+      ]
     },
     {
       "id": 201,
@@ -2557,8 +2592,14 @@
       "y": 22,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 22,
+      "items": [
+        {
+          "barcode": "AP-MAC-STUDIO",
+          "name": "Mac Studio",
+          "quantity": 22
+        }
+      ]
     },
     {
       "id": 205,
@@ -2568,14 +2609,8 @@
       "y": 22,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 44,
-      "items": [
-        {
-          "barcode": "AP-AW-S9",
-          "name": "Apple Watch Series 9",
-          "quantity": 44
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 206,
@@ -2959,14 +2994,8 @@
       "y": 27,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 32,
-      "items": [
-        {
-          "barcode": "AP-MBP14-M3",
-          "name": "MacBook Pro 14\"",
-          "quantity": 32
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 241,
@@ -2998,12 +3027,12 @@
       "y": 27,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 62,
+      "total_quantity": 103,
       "items": [
         {
-          "barcode": "AP-ATV-4K",
-          "name": "Apple TV 4K",
-          "quantity": 62
+          "barcode": "AP-AIRPODS-P2",
+          "name": "AirPods Pro 2",
+          "quantity": 103
         }
       ]
     },
@@ -3081,8 +3110,14 @@
       "y": 28,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 27,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 27
+        }
+      ]
     },
     {
       "id": 251,
@@ -3114,8 +3149,14 @@
       "y": 28,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 227,
+      "items": [
+        {
+          "barcode": "AP-PENCIL-2",
+          "name": "Apple Pencil 2",
+          "quantity": 227
+        }
+      ]
     },
     {
       "id": 254,
@@ -3202,14 +3243,8 @@
       "y": 29,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 5,
-      "items": [
-        {
-          "barcode": "AP-IPAD-AIR5",
-          "name": "iPad Air 5",
-          "quantity": 5
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 262,
@@ -3285,8 +3320,14 @@
       "y": 29,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 43,
+      "items": [
+        {
+          "barcode": "AP-IPAD-AIR5",
+          "name": "iPad Air 5",
+          "quantity": 43
+        }
+      ]
     },
     {
       "id": 269,
@@ -3307,14 +3348,8 @@
       "y": 30,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 12,
-      "items": [
-        {
-          "barcode": "AP-MBP14-M3",
-          "name": "MacBook Pro 14\"",
-          "quantity": 12
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 271,
@@ -3335,8 +3370,14 @@
       "y": 30,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 5,
+      "items": [
+        {
+          "barcode": "AP-MAC-STUDIO",
+          "name": "Mac Studio",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": 273,
@@ -3423,8 +3464,14 @@
       "y": 31,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 28,
+      "items": [
+        {
+          "barcode": "AP-MS-BATT",
+          "name": "MagSafe 行動電源",
+          "quantity": 28
+        }
+      ]
     },
     {
       "id": 281,
@@ -3478,8 +3525,14 @@
       "y": 31,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 6,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 6
+        }
+      ]
     },
     {
       "id": 286,
@@ -3511,8 +3564,14 @@
       "y": 31,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 6,
+      "items": [
+        {
+          "barcode": "AP-AW-U2",
+          "name": "Apple Watch Ultra 2",
+          "quantity": 6
+        }
+      ]
     },
     {
       "id": 289,
@@ -3577,14 +3636,8 @@
       "y": 33,
       "capacity": 100,
       "floor": "3F",
-      "total_quantity": 108,
-      "items": [
-        {
-          "barcode": "AP-MAGIC-MS",
-          "name": "Magic Mouse",
-          "quantity": 108
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 295,
@@ -3979,8 +4032,14 @@
       "y": 1,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 35,
+      "items": [
+        {
+          "barcode": "AP-MBA13-M2",
+          "name": "MacBook Air 13\"",
+          "quantity": 35
+        }
+      ]
     },
     {
       "id": 1005,
@@ -4111,14 +4170,8 @@
       "y": 2,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 213,
-      "items": [
-        {
-          "barcode": "AP-PENCIL-2",
-          "name": "Apple Pencil 2",
-          "quantity": 213
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1017,
@@ -4205,14 +4258,8 @@
       "y": 3,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 139,
-      "items": [
-        {
-          "barcode": "AP-AG-4PK",
-          "name": "AirTag 4件裝",
-          "quantity": 139
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1025,
@@ -4277,8 +4324,14 @@
       "y": 5,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 104,
+      "items": [
+        {
+          "barcode": "AP-ADAPTER-20W",
+          "name": "20W USB-C 電源轉接器",
+          "quantity": 104
+        }
+      ]
     },
     {
       "id": 1031,
@@ -4398,14 +4451,8 @@
       "y": 6,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 8,
-      "items": [
-        {
-          "barcode": "AP-HP-MINI",
-          "name": "HomePod mini",
-          "quantity": 8
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1042,
@@ -4481,14 +4528,8 @@
       "y": 7,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 18,
-      "items": [
-        {
-          "barcode": "AP-MAGIC-MS",
-          "name": "Magic Mouse",
-          "quantity": 18
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1049,
@@ -4542,8 +4583,14 @@
       "y": 7,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 35,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-KB",
+          "name": "Magic Keyboard",
+          "quantity": 35
+        }
+      ]
     },
     {
       "id": 1054,
@@ -4652,14 +4699,8 @@
       "y": 8,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 38,
-      "items": [
-        {
-          "barcode": "AP-IPAD-AIR5",
-          "name": "iPad Air 5",
-          "quantity": 38
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1064,
@@ -4724,14 +4765,8 @@
       "y": 9,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 27,
-      "items": [
-        {
-          "barcode": "AP-AW-S9",
-          "name": "Apple Watch Series 9",
-          "quantity": 27
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1070,
@@ -4774,8 +4809,14 @@
       "y": 9,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 5,
+      "items": [
+        {
+          "barcode": "AP-IPAD-PRO11",
+          "name": "iPad Pro 11\"",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": 1074,
@@ -4807,14 +4848,8 @@
       "y": 9,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 82,
-      "items": [
-        {
-          "barcode": "AP-AW-S9",
-          "name": "Apple Watch Series 9",
-          "quantity": 82
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1077,
@@ -4835,8 +4870,14 @@
       "y": 10,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 238,
+      "items": [
+        {
+          "barcode": "AP-PENCIL-2",
+          "name": "Apple Pencil 2",
+          "quantity": 238
+        }
+      ]
     },
     {
       "id": 1079,
@@ -4868,14 +4909,8 @@
       "y": 10,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 47,
-      "items": [
-        {
-          "barcode": "AP-MAGIC-KB",
-          "name": "Magic Keyboard",
-          "quantity": 47
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1082,
@@ -4907,14 +4942,8 @@
       "y": 10,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 23,
-      "items": [
-        {
-          "barcode": "AP-AW-U2",
-          "name": "Apple Watch Ultra 2",
-          "quantity": 23
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1085,
@@ -5001,14 +5030,8 @@
       "y": 12,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 13,
-      "items": [
-        {
-          "barcode": "AP-STUDIO-DISP",
-          "name": "Studio Display",
-          "quantity": 13
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1093,
@@ -5095,8 +5118,14 @@
       "y": 13,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 373,
+      "items": [
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 373
+        }
+      ]
     },
     {
       "id": 1101,
@@ -5139,8 +5168,14 @@
       "y": 13,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 72,
+      "items": [
+        {
+          "barcode": "AP-IPAD-AIR5",
+          "name": "iPad Air 5",
+          "quantity": 72
+        }
+      ]
     },
     {
       "id": 1105,
@@ -5161,14 +5196,8 @@
       "y": 14,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 32,
-      "items": [
-        {
-          "barcode": "AP-MBP14-M3",
-          "name": "MacBook Pro 14\"",
-          "quantity": 32
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1107,
@@ -5299,8 +5328,14 @@
       "y": 15,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 46,
+      "items": [
+        {
+          "barcode": "AP-IP15-128",
+          "name": "iPhone 15 128GB",
+          "quantity": 46
+        }
+      ]
     },
     {
       "id": 1119,
@@ -5310,12 +5345,12 @@
       "y": 15,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 24,
+      "total_quantity": 134,
       "items": [
         {
-          "barcode": "AP-MS-BATT",
-          "name": "MagSafe 行動電源",
-          "quantity": 24
+          "barcode": "AP-ADAPTER-20W",
+          "name": "20W USB-C 電源轉接器",
+          "quantity": 134
         }
       ]
     },
@@ -5382,8 +5417,14 @@
       "y": 15,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 19,
+      "items": [
+        {
+          "barcode": "AP-MAC-STUDIO",
+          "name": "Mac Studio",
+          "quantity": 19
+        }
+      ]
     },
     {
       "id": 1126,
@@ -5459,14 +5500,8 @@
       "y": 16,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 6,
-      "items": [
-        {
-          "barcode": "AP-MAC-STUDIO",
-          "name": "Mac Studio",
-          "quantity": 6
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1133,
@@ -5498,8 +5533,14 @@
       "y": 16,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 25,
+      "items": [
+        {
+          "barcode": "AP-MS-BATT",
+          "name": "MagSafe 行動電源",
+          "quantity": 25
+        }
+      ]
     },
     {
       "id": 1136,
@@ -5542,8 +5583,14 @@
       "y": 16,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 12,
+      "items": [
+        {
+          "barcode": "AP-IPAD-PRO11",
+          "name": "iPad Pro 11\"",
+          "quantity": 12
+        }
+      ]
     },
     {
       "id": 1140,
@@ -5641,14 +5688,8 @@
       "y": 17,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 309,
-      "items": [
-        {
-          "barcode": "AP-CABLE-USBC",
-          "name": "USB-C 充電連接線",
-          "quantity": 309
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1149,
@@ -5779,8 +5820,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 13,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 13
+        }
+      ]
     },
     {
       "id": 1161,
@@ -5801,8 +5848,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 14,
+      "items": [
+        {
+          "barcode": "AP-AW-U2",
+          "name": "Apple Watch Ultra 2",
+          "quantity": 14
+        }
+      ]
     },
     {
       "id": 1163,
@@ -5812,8 +5865,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 43,
+      "items": [
+        {
+          "barcode": "AP-MAC-MINI",
+          "name": "Mac mini",
+          "quantity": 43
+        }
+      ]
     },
     {
       "id": 1164,
@@ -5845,8 +5904,14 @@
       "y": 19,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 5,
+      "items": [
+        {
+          "barcode": "AP-STUDIO-DISP",
+          "name": "Studio Display",
+          "quantity": 5
+        }
+      ]
     },
     {
       "id": 1167,
@@ -5856,14 +5921,8 @@
       "y": 20,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 139,
-      "items": [
-        {
-          "barcode": "AP-AIRPODS-P2",
-          "name": "AirPods Pro 2",
-          "quantity": 139
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1168,
@@ -5950,14 +6009,8 @@
       "y": 20,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 10,
-      "items": [
-        {
-          "barcode": "AP-AIRPODS-3",
-          "name": "AirPods 3",
-          "quantity": 10
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1176,
@@ -6022,14 +6075,8 @@
       "y": 21,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 5,
-      "items": [
-        {
-          "barcode": "AP-STUDIO-DISP",
-          "name": "Studio Display",
-          "quantity": 5
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1182,
@@ -6061,14 +6108,8 @@
       "y": 21,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 31,
-      "items": [
-        {
-          "barcode": "AP-MAC-MINI",
-          "name": "Mac mini",
-          "quantity": 31
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1185,
@@ -6133,14 +6174,8 @@
       "y": 21,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 11,
-      "items": [
-        {
-          "barcode": "AP-MBA13-M2",
-          "name": "MacBook Air 13\"",
-          "quantity": 11
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1191,
@@ -6304,8 +6339,14 @@
       "y": 22,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 19,
+      "items": [
+        {
+          "barcode": "AP-MBP14-M3",
+          "name": "MacBook Pro 14\"",
+          "quantity": 19
+        }
+      ]
     },
     {
       "id": 1206,
@@ -6315,19 +6356,8 @@
       "y": 23,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 348,
-      "items": [
-        {
-          "barcode": "AP-AG-4PK",
-          "name": "AirTag 4件裝",
-          "quantity": 329
-        },
-        {
-          "barcode": "AP-MAC-MINI",
-          "name": "Mac mini",
-          "quantity": 19
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1207,
@@ -6337,14 +6367,8 @@
       "y": 23,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 11,
-      "items": [
-        {
-          "barcode": "AP-MAC-STUDIO",
-          "name": "Mac Studio",
-          "quantity": 11
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1208,
@@ -6376,14 +6400,8 @@
       "y": 23,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 121,
-      "items": [
-        {
-          "barcode": "AP-AW-S9",
-          "name": "Apple Watch Series 9",
-          "quantity": 121
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1211,
@@ -6492,14 +6510,8 @@
       "y": 24,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 94,
-      "items": [
-        {
-          "barcode": "AP-MAGIC-MS",
-          "name": "Magic Mouse",
-          "quantity": 94
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1221,
@@ -6531,8 +6543,14 @@
       "y": 24,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 46,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 46
+        }
+      ]
     },
     {
       "id": 1224,
@@ -6542,14 +6560,8 @@
       "y": 24,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 26,
-      "items": [
-        {
-          "barcode": "AP-MAGIC-MS",
-          "name": "Magic Mouse",
-          "quantity": 26
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1225,
@@ -6614,8 +6626,14 @@
       "y": 26,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 10,
+      "items": [
+        {
+          "barcode": "AP-IPAD-PRO11",
+          "name": "iPad Pro 11\"",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": 1231,
@@ -6669,14 +6687,8 @@
       "y": 26,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 49,
-      "items": [
-        {
-          "barcode": "AP-ATV-4K",
-          "name": "Apple TV 4K",
-          "quantity": 49
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1236,
@@ -6697,12 +6709,12 @@
       "y": 26,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 134,
+      "total_quantity": 244,
       "items": [
         {
-          "barcode": "AP-MS-BATT",
-          "name": "MagSafe 行動電源",
-          "quantity": 134
+          "barcode": "AP-AG-4PK",
+          "name": "AirTag 4件裝",
+          "quantity": 244
         }
       ]
     },
@@ -6758,14 +6770,8 @@
       "y": 27,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 69,
-      "items": [
-        {
-          "barcode": "AP-AG-4PK",
-          "name": "AirTag 4件裝",
-          "quantity": 69
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1243,
@@ -6830,8 +6836,14 @@
       "y": 27,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 215,
+      "items": [
+        {
+          "barcode": "AP-PENCIL-2",
+          "name": "Apple Pencil 2",
+          "quantity": 215
+        }
+      ]
     },
     {
       "id": 1249,
@@ -6907,14 +6919,8 @@
       "y": 28,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 29,
-      "items": [
-        {
-          "barcode": "AP-MAGIC-KB",
-          "name": "Magic Keyboard",
-          "quantity": 29
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1256,
@@ -6968,14 +6974,8 @@
       "y": 29,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 98,
-      "items": [
-        {
-          "barcode": "AP-HP-MINI",
-          "name": "HomePod mini",
-          "quantity": 98
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1261,
@@ -6985,14 +6985,8 @@
       "y": 29,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 161,
-      "items": [
-        {
-          "barcode": "AP-AIRPODS-P2",
-          "name": "AirPods Pro 2",
-          "quantity": 161
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1262,
@@ -7013,8 +7007,14 @@
       "y": 29,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 106,
+      "items": [
+        {
+          "barcode": "AP-AIRPODS-3",
+          "name": "AirPods 3",
+          "quantity": 106
+        }
+      ]
     },
     {
       "id": 1264,
@@ -7035,8 +7035,14 @@
       "y": 29,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 10,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 10
+        }
+      ]
     },
     {
       "id": 1266,
@@ -7068,14 +7074,8 @@
       "y": 29,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 428,
-      "items": [
-        {
-          "barcode": "AP-CABLE-USBC",
-          "name": "USB-C 充電連接線",
-          "quantity": 428
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1269,
@@ -7338,8 +7338,14 @@
       "y": 33,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 251,
+      "items": [
+        {
+          "barcode": "AP-AG-4PK",
+          "name": "AirTag 4件裝",
+          "quantity": 251
+        }
+      ]
     },
     {
       "id": 1293,
@@ -7382,8 +7388,19 @@
       "y": 33,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 466,
+      "items": [
+        {
+          "barcode": "AP-AW-S9",
+          "name": "Apple Watch Series 9",
+          "quantity": 88
+        },
+        {
+          "barcode": "AP-CABLE-USBC",
+          "name": "USB-C 充電連接線",
+          "quantity": 378
+        }
+      ]
     },
     {
       "id": 1297,
@@ -7415,14 +7432,8 @@
       "y": 33,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 73,
-      "items": [
-        {
-          "barcode": "AP-IP15-128",
-          "name": "iPhone 15 128GB",
-          "quantity": 73
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1300,
@@ -7520,8 +7531,14 @@
       "y": 34,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 0,
-      "items": []
+      "total_quantity": 118,
+      "items": [
+        {
+          "barcode": "AP-MAGIC-MS",
+          "name": "Magic Mouse",
+          "quantity": 118
+        }
+      ]
     },
     {
       "id": 1309,
@@ -7531,14 +7548,8 @@
       "y": 34,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 240,
-      "items": [
-        {
-          "barcode": "AP-AG-4PK",
-          "name": "AirTag 4件裝",
-          "quantity": 240
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1310,
@@ -7691,14 +7702,8 @@
       "y": 35,
       "capacity": 100,
       "floor": "4F",
-      "total_quantity": 266,
-      "items": [
-        {
-          "barcode": "AP-CABLE-USBC",
-          "name": "USB-C 充電連接線",
-          "quantity": 266
-        }
-      ]
+      "total_quantity": 0,
+      "items": []
     },
     {
       "id": 1324,
@@ -7736,42 +7741,42 @@
   ],
   "mockTransactions": [
     {
-      "id": 8,
-      "timestamp": "2026-02-27T21:07:56.677Z",
-      "type": "OUT",
-      "quantity": 7,
-      "is_deleted": 0,
-      "barcode": "AP-MBA13-M2",
-      "item_name": "MacBook Air 13\"",
-      "location_code": "3A-04-1",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 2,
-      "timestamp": "2026-02-27T07:38:35.270Z",
-      "type": "OUT",
-      "quantity": 1,
-      "is_deleted": 0,
-      "barcode": "AP-IP15P-256",
-      "item_name": "iPhone 15 Pro 256GB",
-      "location_code": "3F-12-2",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 10,
-      "timestamp": "2026-02-26T23:34:56.604Z",
+      "id": 28,
+      "timestamp": "2026-02-27T23:01:22.332Z",
       "type": "IN",
-      "quantity": 9,
+      "quantity": 3,
+      "is_deleted": 1,
+      "barcode": "AP-HP-MINI",
+      "item_name": "HomePod mini",
+      "location_code": "3D-01-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 11,
+      "timestamp": "2026-02-26T19:14:28.755Z",
+      "type": "IN",
+      "quantity": 4,
       "is_deleted": 0,
-      "barcode": "AP-MBA13-M2",
-      "item_name": "MacBook Air 13\"",
-      "location_code": "3E-10-1",
+      "barcode": "AP-IPAD-AIR5",
+      "item_name": "iPad Air 5",
+      "location_code": "3J-09-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 42,
+      "timestamp": "2026-02-26T04:47:34.967Z",
+      "type": "OUT",
+      "quantity": 19,
+      "is_deleted": 0,
+      "barcode": "AP-MS-BATT",
+      "item_name": "MagSafe 行動電源",
+      "location_code": "4E-09-2",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
@@ -7779,41 +7784,97 @@
     },
     {
       "id": 13,
-      "timestamp": "2026-02-26T09:26:18.539Z",
+      "timestamp": "2026-02-25T01:54:03.506Z",
       "type": "IN",
-      "quantity": 3,
-      "is_deleted": 0,
-      "barcode": "AP-IPAD-PRO11",
-      "item_name": "iPad Pro 11\"",
-      "location_code": "3A-07-3",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 15,
-      "timestamp": "2026-02-25T19:00:48.343Z",
-      "type": "OUT",
-      "quantity": 5,
-      "is_deleted": 0,
-      "barcode": "AP-AW-S9",
-      "item_name": "Apple Watch Series 9",
-      "location_code": "4C-09-2",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 12,
-      "timestamp": "2026-02-24T15:38:45.772Z",
-      "type": "IN",
-      "quantity": 5,
+      "quantity": 7,
       "is_deleted": 0,
       "barcode": "AP-IPAD-AIR5",
       "item_name": "iPad Air 5",
-      "location_code": "4C-06-3",
+      "location_code": "4D-07-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-02-24T17:54:01.019Z",
+      "type": "IN",
+      "quantity": 7,
+      "is_deleted": 1,
+      "barcode": "AP-IP15-128",
+      "item_name": "iPhone 15 128GB",
+      "location_code": "4E-05-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 21,
+      "timestamp": "2026-02-24T15:47:14.673Z",
+      "type": "IN",
+      "quantity": 3,
+      "is_deleted": 0,
+      "barcode": "AP-AW-U2",
+      "item_name": "Apple Watch Ultra 2",
+      "location_code": "3C-01-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-02-23T22:54:43.477Z",
+      "type": "IN",
+      "quantity": 3,
+      "is_deleted": 0,
+      "barcode": "AP-HP-MINI",
+      "item_name": "HomePod mini",
+      "location_code": "3G-06-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 32,
+      "timestamp": "2026-02-23T12:39:44.821Z",
+      "type": "OUT",
+      "quantity": 6,
+      "is_deleted": 0,
+      "barcode": "AP-MAGIC-KB",
+      "item_name": "Magic Keyboard",
+      "location_code": "3E-08-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-02-22T21:06:27.837Z",
+      "type": "OUT",
+      "quantity": 16,
+      "is_deleted": 0,
+      "barcode": "AP-ATV-4K",
+      "item_name": "Apple TV 4K",
+      "location_code": "3A-05-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 46,
+      "timestamp": "2026-02-22T16:49:25.359Z",
+      "type": "OUT",
+      "quantity": 18,
+      "is_deleted": 0,
+      "barcode": "AP-PENCIL-2",
+      "item_name": "Apple Pencil 2",
+      "location_code": "3E-09-3",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
@@ -7821,97 +7882,139 @@
     },
     {
       "id": 9,
-      "timestamp": "2026-02-24T12:37:23.508Z",
-      "type": "IN",
-      "quantity": 2,
-      "is_deleted": 0,
+      "timestamp": "2026-02-21T19:48:15.328Z",
+      "type": "OUT",
+      "quantity": 6,
+      "is_deleted": 1,
       "barcode": "AP-MBA13-M2",
       "item_name": "MacBook Air 13\"",
-      "location_code": "4F-12-1",
+      "location_code": "4A-02-3",
       "employee_id": "demo",
       "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 11,
-      "timestamp": "2026-02-23T20:25:42.842Z",
-      "type": "OUT",
-      "quantity": 2,
-      "is_deleted": 0,
-      "barcode": "AP-IPAD-AIR5",
-      "item_name": "iPad Air 5",
-      "location_code": "3J-02-3",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 14,
-      "timestamp": "2026-02-23T15:46:49.388Z",
-      "type": "IN",
-      "quantity": 9,
-      "is_deleted": 0,
-      "barcode": "AP-AW-S9",
-      "item_name": "Apple Watch Series 9",
-      "location_code": "3G-11-3",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
-    },
-    {
-      "id": 6,
-      "timestamp": "2026-02-22T14:07:39.147Z",
-      "type": "OUT",
-      "quantity": 5,
-      "is_deleted": 0,
-      "barcode": "AP-MBP14-M3",
-      "item_name": "MacBook Pro 14\"",
-      "location_code": "3H-01-2",
-      "employee_id": "demo",
-      "user_name": "Demo User",
-      "deleter_name": null,
-      "deleter_id": null
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
     },
     {
       "id": 5,
-      "timestamp": "2026-02-22T09:15:35.242Z",
+      "timestamp": "2026-02-21T14:50:53.121Z",
       "type": "IN",
-      "quantity": 3,
+      "quantity": 9,
       "is_deleted": 0,
       "barcode": "AP-MBP14-M3",
       "item_name": "MacBook Pro 14\"",
-      "location_code": "4D-01-1",
+      "location_code": "3H-01-1",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
       "deleter_id": null
     },
     {
-      "id": 4,
-      "timestamp": "2026-02-22T02:36:36.233Z",
-      "type": "IN",
+      "id": 36,
+      "timestamp": "2026-02-21T06:56:34.221Z",
+      "type": "OUT",
+      "quantity": 15,
+      "is_deleted": 0,
+      "barcode": "AP-CABLE-USBC",
+      "item_name": "USB-C 充電連接線",
+      "location_code": "3F-01-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-02-20T05:10:34.377Z",
+      "type": "OUT",
       "quantity": 6,
       "is_deleted": 0,
-      "barcode": "AP-MBP14-M3",
-      "item_name": "MacBook Pro 14\"",
-      "location_code": "3J-01-2",
+      "barcode": "AP-AIRPODS-P2",
+      "item_name": "AirPods Pro 2",
+      "location_code": "3H-04-2",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
       "deleter_id": null
     },
     {
-      "id": 3,
-      "timestamp": "2026-02-22T01:15:42.113Z",
+      "id": 37,
+      "timestamp": "2026-02-20T02:12:35.099Z",
+      "type": "IN",
+      "quantity": 20,
+      "is_deleted": 0,
+      "barcode": "AP-CABLE-USBC",
+      "item_name": "USB-C 充電連接線",
+      "location_code": "4D-03-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 50,
+      "timestamp": "2026-02-20T00:10:43.514Z",
+      "type": "OUT",
+      "quantity": 7,
+      "is_deleted": 0,
+      "barcode": "AP-MAC-STUDIO",
+      "item_name": "Mac Studio",
+      "location_code": "4E-12-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 44,
+      "timestamp": "2026-02-18T23:54:12.158Z",
+      "type": "OUT",
+      "quantity": 12,
+      "is_deleted": 0,
+      "barcode": "AP-PENCIL-2",
+      "item_name": "Apple Pencil 2",
+      "location_code": "3H-04-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 35,
+      "timestamp": "2026-02-17T22:58:06.657Z",
+      "type": "OUT",
+      "quantity": 6,
+      "is_deleted": 0,
+      "barcode": "AP-CABLE-USBC",
+      "item_name": "USB-C 充電連接線",
+      "location_code": "4K-05-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 41,
+      "timestamp": "2026-02-17T17:32:45.605Z",
+      "type": "OUT",
+      "quantity": 18,
+      "is_deleted": 0,
+      "barcode": "AP-MS-BATT",
+      "item_name": "MagSafe 行動電源",
+      "location_code": "3J-01-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 18,
+      "timestamp": "2026-02-15T22:56:10.656Z",
       "type": "IN",
       "quantity": 10,
       "is_deleted": 0,
-      "barcode": "AP-IP15P-256",
-      "item_name": "iPhone 15 Pro 256GB",
-      "location_code": "3F-05-3",
+      "barcode": "AP-AW-S9",
+      "item_name": "Apple Watch Series 9",
+      "location_code": "3B-01-2",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
@@ -7919,13 +8022,153 @@
     },
     {
       "id": 1,
-      "timestamp": "2026-02-22T00:38:28.046Z",
+      "timestamp": "2026-02-15T19:59:22.008Z",
       "type": "IN",
-      "quantity": 7,
+      "quantity": 11,
       "is_deleted": 0,
       "barcode": "AP-IP15-128",
       "item_name": "iPhone 15 128GB",
-      "location_code": "4K-07-3",
+      "location_code": "3E-10-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 33,
+      "timestamp": "2026-02-15T19:04:04.102Z",
+      "type": "OUT",
+      "quantity": 4,
+      "is_deleted": 0,
+      "barcode": "AP-MAGIC-KB",
+      "item_name": "Magic Keyboard",
+      "location_code": "4B-07-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 16,
+      "timestamp": "2026-02-15T17:15:10.363Z",
+      "type": "IN",
+      "quantity": 1,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-PRO11",
+      "item_name": "iPad Pro 11\"",
+      "location_code": "4E-13-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 38,
+      "timestamp": "2026-02-15T02:17:51.883Z",
+      "type": "OUT",
+      "quantity": 15,
+      "is_deleted": 0,
+      "barcode": "AP-ADAPTER-20W",
+      "item_name": "20W USB-C 電源轉接器",
+      "location_code": "3A-07-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 45,
+      "timestamp": "2026-02-14T14:40:02.647Z",
+      "type": "IN",
+      "quantity": 14,
+      "is_deleted": 0,
+      "barcode": "AP-PENCIL-2",
+      "item_name": "Apple Pencil 2",
+      "location_code": "4C-01-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 43,
+      "timestamp": "2026-02-14T06:00:36.684Z",
+      "type": "OUT",
+      "quantity": 17,
+      "is_deleted": 0,
+      "barcode": "AP-PENCIL-2",
+      "item_name": "Apple Pencil 2",
+      "location_code": "4H-09-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-02-13T16:58:49.416Z",
+      "type": "IN",
+      "quantity": 20,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-AIR5",
+      "item_name": "iPad Air 5",
+      "location_code": "3D-08-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 30,
+      "timestamp": "2026-02-13T00:51:28.844Z",
+      "type": "OUT",
+      "quantity": 17,
+      "is_deleted": 1,
+      "barcode": "AP-AG-4PK",
+      "item_name": "AirTag 4件裝",
+      "location_code": "4H-08-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 19,
+      "timestamp": "2026-02-12T19:08:46.566Z",
+      "type": "OUT",
+      "quantity": 2,
+      "is_deleted": 0,
+      "barcode": "AP-AW-S9",
+      "item_name": "Apple Watch Series 9",
+      "location_code": "4G-08-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-02-11T10:01:02.741Z",
+      "type": "IN",
+      "quantity": 4,
+      "is_deleted": 0,
+      "barcode": "AP-ATV-4K",
+      "item_name": "Apple TV 4K",
+      "location_code": "3G-07-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 10,
+      "timestamp": "2026-02-10T23:55:17.113Z",
+      "type": "OUT",
+      "quantity": 3,
+      "is_deleted": 0,
+      "barcode": "AP-MBA13-M2",
+      "item_name": "MacBook Air 13\"",
+      "location_code": "3C-06-1",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
@@ -7933,13 +8176,265 @@
     },
     {
       "id": 7,
-      "timestamp": "2026-02-21T19:10:03.718Z",
+      "timestamp": "2026-02-10T09:19:06.007Z",
       "type": "IN",
-      "quantity": 5,
+      "quantity": 8,
       "is_deleted": 0,
       "barcode": "AP-MBP14-M3",
       "item_name": "MacBook Pro 14\"",
-      "location_code": "3B-08-1",
+      "location_code": "4F-07-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-02-10T07:45:07.787Z",
+      "type": "IN",
+      "quantity": 2,
+      "is_deleted": 0,
+      "barcode": "AP-MBP14-M3",
+      "item_name": "MacBook Pro 14\"",
+      "location_code": "4G-11-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 14,
+      "timestamp": "2026-02-09T18:34:20.994Z",
+      "type": "OUT",
+      "quantity": 12,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-PRO11",
+      "item_name": "iPad Pro 11\"",
+      "location_code": "4C-06-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 17,
+      "timestamp": "2026-02-08T08:04:45.612Z",
+      "type": "IN",
+      "quantity": 17,
+      "is_deleted": 0,
+      "barcode": "AP-AW-S9",
+      "item_name": "Apple Watch Series 9",
+      "location_code": "4J-06-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 22,
+      "timestamp": "2026-02-07T15:55:02.962Z",
+      "type": "OUT",
+      "quantity": 11,
+      "is_deleted": 0,
+      "barcode": "AP-AW-U2",
+      "item_name": "Apple Watch Ultra 2",
+      "location_code": "4F-09-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-02-06T19:20:23.641Z",
+      "type": "OUT",
+      "quantity": 11,
+      "is_deleted": 0,
+      "barcode": "AP-AIRPODS-3",
+      "item_name": "AirPods 3",
+      "location_code": "4J-04-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-02-06T02:45:01.636Z",
+      "type": "IN",
+      "quantity": 15,
+      "is_deleted": 0,
+      "barcode": "AP-IP15P-256",
+      "item_name": "iPhone 15 Pro 256GB",
+      "location_code": "3F-10-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 40,
+      "timestamp": "2026-02-06T00:14:39.256Z",
+      "type": "OUT",
+      "quantity": 9,
+      "is_deleted": 0,
+      "barcode": "AP-ADAPTER-20W",
+      "item_name": "20W USB-C 電源轉接器",
+      "location_code": "4E-06-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 49,
+      "timestamp": "2026-02-05T16:13:39.819Z",
+      "type": "IN",
+      "quantity": 7,
+      "is_deleted": 0,
+      "barcode": "AP-MAC-STUDIO",
+      "item_name": "Mac Studio",
+      "location_code": "3J-03-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 39,
+      "timestamp": "2026-02-05T06:51:26.993Z",
+      "type": "OUT",
+      "quantity": 4,
+      "is_deleted": 0,
+      "barcode": "AP-ADAPTER-20W",
+      "item_name": "20W USB-C 電源轉接器",
+      "location_code": "4B-03-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 15,
+      "timestamp": "2026-02-04T04:48:13.667Z",
+      "type": "IN",
+      "quantity": 8,
+      "is_deleted": 0,
+      "barcode": "AP-IPAD-PRO11",
+      "item_name": "iPad Pro 11\"",
+      "location_code": "4H-01-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 47,
+      "timestamp": "2026-02-03T17:07:27.203Z",
+      "type": "IN",
+      "quantity": 2,
+      "is_deleted": 1,
+      "barcode": "AP-STUDIO-DISP",
+      "item_name": "Studio Display",
+      "location_code": "4F-13-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 20,
+      "timestamp": "2026-02-03T14:02:29.391Z",
+      "type": "OUT",
+      "quantity": 2,
+      "is_deleted": 1,
+      "barcode": "AP-AW-S9",
+      "item_name": "Apple Watch Series 9",
+      "location_code": "4K-05-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 31,
+      "timestamp": "2026-02-03T05:29:31.458Z",
+      "type": "IN",
+      "quantity": 1,
+      "is_deleted": 0,
+      "barcode": "AP-AG-4PK",
+      "item_name": "AirTag 4件裝",
+      "location_code": "4K-02-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 34,
+      "timestamp": "2026-02-01T21:43:14.718Z",
+      "type": "IN",
+      "quantity": 5,
+      "is_deleted": 0,
+      "barcode": "AP-MAGIC-MS",
+      "item_name": "Magic Mouse",
+      "location_code": "4K-04-2",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 48,
+      "timestamp": "2026-01-31T19:46:01.499Z",
+      "type": "IN",
+      "quantity": 15,
+      "is_deleted": 1,
+      "barcode": "AP-MAC-STUDIO",
+      "item_name": "Mac Studio",
+      "location_code": "3A-03-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-01-30T08:48:45.940Z",
+      "type": "OUT",
+      "quantity": 10,
+      "is_deleted": 0,
+      "barcode": "AP-MBP14-M3",
+      "item_name": "MacBook Pro 14\"",
+      "location_code": "3J-06-1",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": null,
+      "deleter_id": null
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-01-29T16:36:33.493Z",
+      "type": "OUT",
+      "quantity": 12,
+      "is_deleted": 1,
+      "barcode": "AP-MBA13-M2",
+      "item_name": "MacBook Air 13\"",
+      "location_code": "3A-05-3",
+      "employee_id": "demo",
+      "user_name": "Demo User",
+      "deleter_name": "Admin User",
+      "deleter_id": "admin"
+    },
+    {
+      "id": 23,
+      "timestamp": "2026-01-29T11:49:03.658Z",
+      "type": "OUT",
+      "quantity": 3,
+      "is_deleted": 0,
+      "barcode": "AP-AW-U2",
+      "item_name": "Apple Watch Ultra 2",
+      "location_code": "3J-10-1",
       "employee_id": "demo",
       "user_name": "Demo User",
       "deleter_name": null,
