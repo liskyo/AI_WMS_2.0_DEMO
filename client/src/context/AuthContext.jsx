@@ -13,7 +13,15 @@ export const AuthProvider = ({ children }) => {
         const storedUser = localStorage.getItem('user');
 
         if (storedToken && storedUser) {
-            setUser(JSON.parse(storedUser));
+            let parsedUser = JSON.parse(storedUser);
+            // Hotfix: Force specific permissions for demo versions to avoid cache issues
+            if (parsedUser?.employee_id === 'admin') {
+                parsedUser.permissions = ['ALL'];
+            } else if (parsedUser?.employee_id === 'demo') {
+                parsedUser.permissions = ['IN', 'OUT', 'VIEW_HISTORY'];
+            }
+            localStorage.setItem('user', JSON.stringify(parsedUser));
+            setUser(parsedUser);
         }
         setLoading(false);
     }, []);
@@ -22,7 +30,14 @@ export const AuthProvider = ({ children }) => {
         try {
             const res = await userLogin(employeeId, password);
             if (res.data.success) {
-                const { token, user: userData } = res.data;
+                let { token, user: userData } = res.data;
+                // Enforce permissions at login time
+                if (userData?.employee_id === 'admin') {
+                    userData.permissions = ['ALL'];
+                } else if (userData?.employee_id === 'demo') {
+                    userData.permissions = ['IN', 'OUT', 'VIEW_HISTORY'];
+                }
+
                 // Save to localStorage
                 localStorage.setItem('token', token);
                 localStorage.setItem('user', JSON.stringify(userData));

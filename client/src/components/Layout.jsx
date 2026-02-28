@@ -19,7 +19,7 @@ const Layout = () => {
     const navItems = [
         { path: '/dashboard', label: '總覽 (地圖)', icon: LayoutDashboard, visible: true },
         { path: '/operations', label: '出入庫作業', icon: ArrowRightLeft, visible: hasPermission('IN') || hasPermission('OUT') },
-        { path: '/history', label: '出入庫紀錄', icon: History, visible: hasPermission('VIEW') },
+        { path: '/history', label: '出入庫紀錄', icon: History, visible: hasPermission('VIEW') || hasPermission('VIEW_HISTORY') },
         { path: '/inventory', label: '庫存查詢', icon: Package, visible: hasPermission('VIEW') },
         { path: '/reports', label: '庫存報表', icon: FileBarChart, visible: hasPermission('VIEW') },
         { path: '/import', label: '資料匯入', icon: Settings, visible: hasPermission('IMPORT') },

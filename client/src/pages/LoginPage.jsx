@@ -32,18 +32,36 @@ const LoginPage = () => {
             >
                 <div className="text-center mb-8">
                     <h1 className="text-3xl font-bold text-white mb-2">WMS 智慧倉儲系統</h1>
-                    <p className="text-gray-400">請登入以繼續操作</p>
-                    <div
-                        className="mt-4 p-3 bg-blue-900/40 hover:bg-blue-800/60 border border-blue-700 rounded-lg text-blue-200 text-sm cursor-pointer transition-colors"
-                        onClick={() => {
-                            setEmployeeId('demo');
-                            setPassword('demo123');
-                        }}
-                        title="點擊自動帶入帳號密碼"
-                    >
-                        <p className="font-semibold mb-1">👋 歡迎體驗 Demo 版本 (點我自動輸入)</p>
-                        <p>體驗帳號：<span className="font-mono text-white">demo</span></p>
-                        <p>密碼：<span className="font-mono text-white">demo123</span></p>
+                    <p className="text-gray-400">請選取 Demo 體驗身分</p>
+                    <div className="mt-6 flex flex-col gap-3">
+                        <div
+                            className="p-3 bg-purple-900/40 hover:bg-purple-800/60 border border-purple-700 rounded-lg text-purple-200 text-sm cursor-pointer transition-colors text-left flex justify-between items-center"
+                            onClick={() => {
+                                setEmployeeId('admin');
+                                setPassword('admin123');
+                            }}
+                            title="最高權限管理者"
+                        >
+                            <div>
+                                <p className="font-bold text-base mb-1">👑 Admin 展示版 (全功能)</p>
+                                <p className="text-purple-300">帳號: <span className="font-mono text-white">admin</span> | 密碼: <span className="font-mono text-white">admin123</span></p>
+                            </div>
+                            <span className="text-xs bg-purple-500/30 px-2 py-1 rounded">點擊帶入</span>
+                        </div>
+                        <div
+                            className="p-3 bg-blue-900/40 hover:bg-blue-800/60 border border-blue-700 rounded-lg text-blue-200 text-sm cursor-pointer transition-colors text-left flex justify-between items-center"
+                            onClick={() => {
+                                setEmployeeId('demo');
+                                setPassword('demo123');
+                            }}
+                            title="基層員工權限"
+                        >
+                            <div>
+                                <p className="font-bold text-base mb-1">👨‍🔧 User 展示版 (出入庫與總覽)</p>
+                                <p className="text-blue-300">帳號: <span className="font-mono text-white">demo</span> | 密碼: <span className="font-mono text-white">demo123</span></p>
+                            </div>
+                            <span className="text-xs bg-blue-500/30 px-2 py-1 rounded">點擊帶入</span>
+                        </div>
                     </div>
                 </div>
 
