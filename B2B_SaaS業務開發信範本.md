@@ -1,18 +1,17 @@
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="C:\Users\liskyo\Desktop\AI_WMS_2.0_DEMO\LOGO1.png" width="180" alt="starwish studio Logo">
+  <img src="C:\Users\sky.lo\Desktop\智慧倉儲動態管理系統_Demo\AI_WMS_2.0_DEMO\LOGO1.png" width="180" alt="starwish studio Logo">
   <h1 style="color: #0c2461; border-bottom: 3px solid #00d2d3; padding-bottom: 12px; font-family: 'Segoe UI', sans-serif;">
-    智慧倉儲動態管理系統 業務信函
+    智慧倉儲動態管理系統 
   </h1>
-  <p style="color: #576574;">Sky.lo (a part of starwish studio) 提案信函</p>
+  <p style="color: #576574;"> 簡介信函</p>
 </div>
 
-**✉️ 信件主旨（建議擇一使用）：**
-1. 【庫存精準度 99%】告別錯件與依賴老手，[客戶公司名稱] 專屬的輕量化 AI 智慧倉儲提案
-2. 解決 [客戶公司名稱] 旺季出貨塞車：免買十萬 PDA 的智慧倉儲健檢與提案
+**✉️ 信件主旨：**
+解決旺季出貨塞車：免買十萬 PDA 的AI智慧倉儲健檢與提案
 
 ---
 
-**[客戶公司名稱] 負責人 / 廠長 您好，**
+**[巧居醬小舖] 負責人 / 老闆 您好，**
 
 我是 Sky (starwish studio 產品開發團隊)，近期關注到貴公司業績成長快速，且正在擴編理貨與倉管團隊。
 
@@ -59,5 +58,5 @@
 
 **Sky** starwish studio 業務暨開發部  
 📧 Email: [liskyo5470@gmail.com]  
-📞 連絡電話: [0919675xxx]  
+📞 連絡電話: [0919675120]  
 🌐 系統線上展示：[https://ai-wms-demo.vercel.app/dashboard]  
